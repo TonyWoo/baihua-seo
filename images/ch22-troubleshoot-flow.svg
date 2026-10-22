@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="520" fill="#ffffff"/>
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#2563eb" text-anchor="middle">流量出事时的排查顺序表</text>
+  <rect x="190" y="70" width="420" height="56" rx="6" fill="#f5f8ff" stroke="#ea580c" stroke-width="2"/>
+  <text x="400" y="95" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">第一步 确认范围</text>
+  <text x="400" y="117" font-size="13" fill="#64748b" text-anchor="middle">全站普跌，还是只有几类页面在跌</text>
+  <line x1="400" y1="130" x2="400" y2="150" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="190" y="156" width="420" height="56" rx="6" fill="#f5f8ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="181" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">第二步 分清大盘和个案</text>
+  <text x="400" y="203" font-size="13" fill="#64748b" text-anchor="middle">同行一起跌，多半是算法或季节</text>
+  <line x1="400" y1="216" x2="400" y2="236" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="190" y="242" width="420" height="56" rx="6" fill="#f5f8ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="267" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">第三步 回溯最近改动</text>
+  <text x="400" y="289" font-size="13" fill="#64748b" text-anchor="middle">最近两周动过什么，先怀疑自己</text>
+  <line x1="400" y1="302" x2="400" y2="322" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="190" y="328" width="420" height="56" rx="6" fill="#f5f8ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="353" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">第四步 查收录与抓取</text>
+  <text x="400" y="375" font-size="13" fill="#64748b" text-anchor="middle">收录掉了多少，抓取有没有报错</text>
+  <line x1="400" y1="388" x2="400" y2="408" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="190" y="414" width="420" height="56" rx="6" fill="#f5f8ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="439" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">第五步 查内容与意图</text>
+  <text x="400" y="461" font-size="13" fill="#64748b" text-anchor="middle">页面还在不在，意图有没有跑偏</text>
+  <text x="400" y="504" font-size="13" fill="#ea580c" text-anchor="middle">范围没确认之前，不许动手改页面。</text>
+</svg>

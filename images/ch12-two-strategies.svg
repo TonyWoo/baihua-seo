@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="470" fill="#f5f8ff"/>
+  <text x="400" y="36" text-anchor="middle" font-size="20" font-weight="bold" fill="#1e40af">两种打法对账：各有胜负手</text>
+
+  <rect x="140" y="58" width="315" height="50" rx="6" fill="#2563eb"/>
+  <text x="297" y="90" text-anchor="middle" font-size="16" font-weight="bold" fill="#ffffff">一词一页：主站里开页</text>
+  <rect x="465" y="58" width="305" height="50" rx="6" fill="#64748b"/>
+  <text x="617" y="90" text-anchor="middle" font-size="16" font-weight="bold" fill="#ffffff">一词一站：独立开站</text>
+
+  <text x="80" y="152" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e40af">权重</text>
+  <rect x="140" y="116" width="315" height="64" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="154" y="142" font-size="13" fill="#334155">全站内容与外链攒在一个域名上</text>
+  <text x="154" y="164" font-size="13" fill="#334155">新页面出道就带家底</text>
+  <rect x="465" y="116" width="305" height="64" rx="6" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <text x="479" y="142" font-size="13" fill="#334155">每个新站从零攒信任</text>
+  <text x="479" y="164" font-size="13" fill="#334155">但全站只围一个词，贴合极致</text>
+
+  <text x="80" y="224" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e40af">成本</text>
+  <rect x="140" y="188" width="315" height="64" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="154" y="214" font-size="13" fill="#334155">边际成本近零，开页即上线</text>
+  <text x="154" y="236" font-size="13" fill="#334155">维护只有一份心</text>
+  <rect x="465" y="188" width="305" height="64" rx="6" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <text x="479" y="214" font-size="13" fill="#334155">域名、主机、巡检样样乘以站数</text>
+  <text x="479" y="236" font-size="13" fill="#334155">模板化才能把单站成本压下来</text>
+
+  <text x="80" y="296" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e40af">风险</text>
+  <rect x="140" y="260" width="315" height="64" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="154" y="286" font-size="13" fill="#334155">鸡蛋在一个篮子</text>
+  <text x="154" y="308" font-size="13" fill="#334155">主站被罚，全站连坐</text>
+  <rect x="465" y="260" width="305" height="64" rx="6" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <text x="479" y="286" font-size="13" fill="#334155">单站出事不连累其他站</text>
+  <text x="479" y="308" font-size="13" fill="#334155">但站多易营养不良，个个半死</text>
+
+  <text x="80" y="368" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e40af">退出</text>
+  <rect x="140" y="332" width="315" height="64" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="154" y="358" font-size="13" fill="#334155">资产只有一个大站</text>
+  <text x="154" y="380" font-size="13" fill="#334155">要卖只能整卖，拆不开</text>
+  <rect x="465" y="332" width="305" height="64" rx="6" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <text x="479" y="358" font-size="13" fill="#334155">单站可独立打包出售</text>
+  <text x="479" y="380" font-size="13" fill="#334155">业务线说砍就砍，不伤主站</text>
+
+  <text x="400" y="436" text-anchor="middle" font-size="13" fill="#64748b">没有全能选项：你的词和资源长什么样，就往哪边倒。</text>
+</svg>

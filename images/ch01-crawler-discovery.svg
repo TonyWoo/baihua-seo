@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" font-family="sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#2563eb"/>
+    </marker>
+    <marker id="arrg" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#64748b"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="450" fill="#f5f8ff"/>
+  <text x="400" y="36" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">爬虫靠什么发现新页面</text>
+  <text x="400" y="60" font-size="13" fill="#64748b" text-anchor="middle">它从已知页面出发，顺着链接一张一张往下搬</text>
+
+  <line x1="160" y1="158" x2="296" y2="114" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="228" y="122" font-size="13" fill="#64748b" text-anchor="middle">顺着内链</text>
+  <line x1="100" y1="196" x2="100" y2="268" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="160" y1="284" x2="296" y2="240" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="360" y1="252" x2="360" y2="324" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="576" y1="107" x2="424" y2="107" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="500" y="94" font-size="13" font-weight="bold" fill="#ea580c" text-anchor="middle">外链指过来</text>
+  <line x1="562" y1="351" x2="424" y2="351" stroke="#64748b" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#arrg)"/>
+  <text x="493" y="338" font-size="13" fill="#64748b" text-anchor="middle">直接报地址</text>
+
+  <rect x="40" y="150" width="120" height="46" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="100" y="179" font-size="15" fill="#334155" text-anchor="middle">首页</text>
+
+  <rect x="40" y="272" width="120" height="46" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="100" y="301" font-size="15" fill="#334155" text-anchor="middle">栏目页</text>
+
+  <rect x="300" y="84" width="120" height="46" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="360" y="113" font-size="15" fill="#334155" text-anchor="middle">文章页</text>
+
+  <rect x="300" y="206" width="120" height="46" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="360" y="235" font-size="15" fill="#334155" text-anchor="middle">工具页</text>
+
+  <rect x="300" y="328" width="120" height="46" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="360" y="357" font-size="15" fill="#334155" text-anchor="middle">深层页面</text>
+
+  <rect x="576" y="84" width="128" height="46" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="640" y="113" font-size="15" fill="#334155" text-anchor="middle">外部网站</text>
+
+  <rect x="576" y="206" width="128" height="46" rx="6" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="640" y="235" font-size="15" font-weight="bold" fill="#ea580c" text-anchor="middle">孤岛页面</text>
+  <text x="640" y="278" font-size="13" fill="#ea580c" text-anchor="middle">没人链接，多半被漏掉</text>
+
+  <rect x="562" y="328" width="156" height="46" rx="6" fill="#eff6ff" stroke="#64748b" stroke-width="2"/>
+  <text x="640" y="357" font-size="15" fill="#334155" text-anchor="middle">站点地图</text>
+
+  <text x="400" y="425" font-size="13" fill="#64748b" text-anchor="middle">想让页面被找到，先给它修路：内链、外链、站点地图，三条路至少通一条</text>
+</svg>

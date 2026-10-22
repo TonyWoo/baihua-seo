@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="430" fill="#f5f8ff"/>
+  <text x="400" y="36" text-anchor="middle" font-size="20" font-weight="bold" fill="#1e40af">三个核心指标：各自的及格线</text>
+
+  <text x="455" y="72" text-anchor="middle" font-size="13" fill="#ea580c">及格线 2.5 秒</text>
+  <text x="40" y="94" font-size="17" font-weight="bold" fill="#1e40af">LCP 最大内容绘制</text>
+  <text x="40" y="116" font-size="13" fill="#64748b">主角多久出场</text>
+  <rect x="210" y="84" width="490" height="26" fill="#eef2ff" stroke="#64748b" stroke-width="1"/>
+  <rect x="210" y="84" width="186" height="26" fill="#2563eb"/>
+  <line x1="455" y1="78" x2="455" y2="116" stroke="#ea580c" stroke-width="3"/>
+  <text x="388" y="102" text-anchor="end" font-size="14" fill="#ffffff">例：1.9 秒</text>
+
+  <text x="406" y="172" text-anchor="middle" font-size="13" fill="#ea580c">及格线 200 毫秒</text>
+  <text x="40" y="194" font-size="17" font-weight="bold" fill="#1e40af">INP 交互响应</text>
+  <text x="40" y="216" font-size="13" fill="#64748b">点了多久有反应</text>
+  <rect x="210" y="184" width="490" height="26" fill="#eef2ff" stroke="#64748b" stroke-width="1"/>
+  <rect x="210" y="184" width="157" height="26" fill="#2563eb"/>
+  <line x1="406" y1="178" x2="406" y2="216" stroke="#ea580c" stroke-width="3"/>
+  <text x="359" y="202" text-anchor="end" font-size="14" fill="#ffffff">例：160 毫秒</text>
+
+  <text x="406" y="272" text-anchor="middle" font-size="13" fill="#ea580c">及格线 0.1</text>
+  <text x="40" y="294" font-size="17" font-weight="bold" fill="#1e40af">CLS 布局偏移</text>
+  <text x="40" y="316" font-size="13" fill="#64748b">页面乱不乱跳</text>
+  <rect x="210" y="284" width="490" height="26" fill="#eef2ff" stroke="#64748b" stroke-width="1"/>
+  <rect x="210" y="284" width="98" height="26" fill="#2563eb"/>
+  <line x1="406" y1="278" x2="406" y2="316" stroke="#ea580c" stroke-width="3"/>
+  <text x="300" y="302" text-anchor="end" font-size="14" fill="#ffffff">例：0.05</text>
+
+  <rect x="40" y="344" width="720" height="56" rx="6" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <text x="60" y="368" font-size="13" fill="#334155">口径：看真实用户数据的第 75 分位，三项全过才算及格，实验室分数只当参考。</text>
+  <text x="60" y="390" font-size="13" fill="#334155">先治不及格的那一项，别为了多两分把功能砍得七零八落。</text>
+</svg>

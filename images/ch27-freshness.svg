@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif">
+  <rect width="800" height="380" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">内容会过期，被引用的机会跟着走</text>
+
+  <text x="90" y="58" font-size="13" fill="#64748b" text-anchor="middle">被引用的机会</text>
+  <line x1="90" y1="300" x2="740" y2="300" stroke="#64748b" stroke-width="2"/>
+  <line x1="90" y1="300" x2="90" y2="70" stroke="#64748b" stroke-width="2"/>
+  <text x="740" y="326" font-size="13" fill="#64748b" text-anchor="end">发布后时间</text>
+
+  <path d="M110,110 L720,282" stroke="#94a3b8" stroke-width="2" stroke-dasharray="6 5" fill="none"/>
+  <text x="648" y="258" font-size="13" fill="#64748b">不更新</text>
+
+  <path d="M110,110 L280,192 L280,122 L470,206 L470,132 L720,228" stroke="#2563eb" stroke-width="2" fill="none"/>
+  <circle cx="280" cy="122" r="6" fill="#ea580c"/>
+  <text x="280" y="102" font-size="13" font-weight="bold" fill="#ea580c" text-anchor="middle">更新</text>
+  <circle cx="470" cy="132" r="6" fill="#ea580c"/>
+  <text x="470" y="112" font-size="13" font-weight="bold" fill="#ea580c" text-anchor="middle">更新</text>
+  <text x="560" y="196" font-size="13" fill="#2563eb">定期更新</text>
+
+  <text x="400" y="358" font-size="13" fill="#64748b" text-anchor="middle">约四成引用信号与内容时效有关：核心页定期复查、更新日期，老内容也能续命。</text>
+</svg>

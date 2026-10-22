@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="360" fill="#f5f8ff"/>
+  <text x="40" y="44" font-size="20" fill="#2563eb" font-weight="bold">品牌信号与「被 AI 引用」的相关性</text>
+  <text x="40" y="104" font-size="15" fill="#334155">品牌提及</text>
+  <rect x="190" y="82" width="470" height="36" rx="6" fill="#ea580c"/>
+  <text x="672" y="106" font-size="15" fill="#334155" font-weight="bold">0.664</text>
+  <text x="40" y="174" font-size="15" fill="#334155">传统排名位置</text>
+  <rect x="190" y="152" width="297" height="36" rx="6" fill="#2563eb"/>
+  <text x="499" y="176" font-size="15" fill="#334155" font-weight="bold">0.42</text>
+  <text x="40" y="244" font-size="15" fill="#334155">外链数量</text>
+  <rect x="190" y="222" width="154" height="36" rx="6" fill="#2563eb"/>
+  <text x="356" y="246" font-size="15" fill="#334155" font-weight="bold">0.218</text>
+  <text x="190" y="302" font-size="13" fill="#64748b">相关性越接近 1，这个信号与「被 AI 引用」的关系越强</text>
+  <text x="190" y="326" font-size="13" fill="#64748b">数据来源：Ahrefs 7.5 万品牌研究；State of AI Search 2026</text>
+</svg>

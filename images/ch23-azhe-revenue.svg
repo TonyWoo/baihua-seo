@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="360" fill="#ffffff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#2563eb" text-anchor="middle">阿哲的站：一个月两条腿走路</text>
+  <text x="400" y="64" font-size="13" fill="#64748b" text-anchor="middle">月访问量约 6 万次时的量级示意</text>
+  <text x="190" y="132" font-size="15" fill="#334155" text-anchor="end">广告（AdSense）</text>
+  <rect x="210" y="104" width="270" height="44" rx="6" fill="#f5f8ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="492" y="132" font-size="15" fill="#334155">约 180 美元</text>
+  <text x="190" y="212" font-size="15" fill="#334155" text-anchor="end">付费版（Pro）</text>
+  <rect x="210" y="184" width="480" height="44" rx="6" fill="#f5f8ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="702" y="212" font-size="15" fill="#334155">约 320 美元</text>
+  <text x="210" y="276" font-size="15" font-weight="bold" fill="#ea580c">两条加起来，约 500 美元一个月</text>
+  <text x="400" y="322" font-size="13" fill="#64748b" text-anchor="middle">数字是量级示意，不是保证：题材和地区一变，同样流量能差出几倍。</text>
+</svg>

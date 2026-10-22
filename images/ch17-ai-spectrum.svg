@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="340" fill="#f5f8ff"/>
+  <text x="400" y="38" text-anchor="middle" font-size="20" font-weight="bold" fill="#2563eb">AI 能帮到哪一步：辅助、谨慎、禁区</text>
+  <rect x="60" y="118" width="270" height="58" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <rect x="330" y="118" width="200" height="58" fill="#bfdbfe" stroke="#2563eb" stroke-width="2"/>
+  <rect x="530" y="118" width="210" height="58" fill="#ffedd5" stroke="#ea580c" stroke-width="2"/>
+  <text x="195" y="153" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e293b">辅助区</text>
+  <text x="430" y="153" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e293b">谨慎区</text>
+  <text x="635" y="153" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e293b">禁区</text>
+  <line x1="530" y1="94" x2="530" y2="286" stroke="#ea580c" stroke-width="3"/>
+  <text x="530" y="86" text-anchor="middle" font-size="15" font-weight="bold" fill="#ea580c">红线</text>
+  <text x="195" y="206" text-anchor="middle" font-size="13" fill="#334155">出提纲、改初稿、做翻译</text>
+  <text x="195" y="228" text-anchor="middle" font-size="13" fill="#334155">把资料整理成表格</text>
+  <text x="430" y="206" text-anchor="middle" font-size="13" fill="#334155">模板里填说明文案</text>
+  <text x="430" y="228" text-anchor="middle" font-size="13" fill="#334155">前提：数据真实可核对</text>
+  <text x="635" y="206" text-anchor="middle" font-size="13" fill="#334155">批量洗稿、换词重发</text>
+  <text x="635" y="228" text-anchor="middle" font-size="13" fill="#334155">无增量信息的量产</text>
+  <text x="400" y="292" text-anchor="middle" font-size="15" font-weight="bold" fill="#2563eb">分界不在工具，在内容有没有新东西</text>
+</svg>

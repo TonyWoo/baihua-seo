@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="400" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">挖词漏斗：一百个候选，最后留下十来个</text>
+  <polygon points="100,70 700,70 650,130 150,130" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="106" font-size="15" fill="#334155" text-anchor="middle">工具粗筛：100 个候选词</text>
+  <polygon points="160,140 640,140 595,200 205,200" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="176" font-size="15" fill="#334155" text-anchor="middle">去掉品牌词和离题词：剩 55 个</text>
+  <polygon points="215,210 585,210 545,270 255,270" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="246" font-size="15" fill="#334155" text-anchor="middle">Trends 验热度：剩 28 个</text>
+  <polygon points="265,280 535,280 500,340 300,340" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="400" y="316" font-size="15" font-weight="bold" fill="#ea580c" text-anchor="middle">搜索验证：剩 10 个能动手做的</text>
+  <text x="400" y="378" font-size="13" fill="#64748b" text-anchor="middle">漏斗的意义不是淘汰，是把有限的时间留给最有把握的词</text>
+</svg>

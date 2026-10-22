@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="420" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">新词的一生：热得快，凉得也快</text>
+  <rect x="198" y="80" width="112" height="250" fill="#fff7ed" stroke="#ea580c" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <text x="254" y="66" font-size="15" font-weight="bold" fill="#ea580c" text-anchor="middle">爆发后 72 小时</text>
+  <line x1="80" y1="330" x2="740" y2="330" stroke="#64748b" stroke-width="2"/>
+  <line x1="80" y1="330" x2="80" y2="80" stroke="#64748b" stroke-width="2"/>
+  <path d="M 80 325 C 160 322, 200 300, 240 190 C 265 120, 290 92, 320 95 C 360 100, 420 210, 520 285 C 600 328, 680 328, 735 326" fill="none" stroke="#2563eb" stroke-width="3"/>
+  <text x="140" y="356" font-size="13" fill="#64748b" text-anchor="middle">冒头</text>
+  <text x="330" y="86" font-size="13" fill="#64748b">见顶</text>
+  <text x="490" y="356" font-size="13" fill="#64748b" text-anchor="middle">回落</text>
+  <text x="675" y="356" font-size="13" fill="#64748b" text-anchor="middle">长尾余温</text>
+  <text x="400" y="396" font-size="14" fill="#334155" text-anchor="middle">这类词约八成半的商业价值，挤在爆发后的头 72 小时里</text>
+</svg>

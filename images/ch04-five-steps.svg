@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" font-family="sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="300" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">竞品挖词五步法</text>
+  <g>
+    <rect x="24" y="110" width="128" height="84" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+    <text x="88" y="140" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">第一步</text>
+    <text x="88" y="164" font-size="15" fill="#334155" text-anchor="middle">找种子站</text>
+    <text x="88" y="186" font-size="13" fill="#64748b" text-anchor="middle">锁定几个同行</text>
+  </g>
+  <g>
+    <rect x="176" y="110" width="128" height="84" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+    <text x="240" y="140" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">第二步</text>
+    <text x="240" y="164" font-size="15" fill="#334155" text-anchor="middle">抓新涨词</text>
+    <text x="240" y="186" font-size="13" fill="#64748b" text-anchor="middle">盯流量涨跌页</text>
+  </g>
+  <g>
+    <rect x="328" y="110" width="128" height="84" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+    <text x="392" y="140" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">第三步</text>
+    <text x="392" y="164" font-size="15" fill="#334155" text-anchor="middle">验热度</text>
+    <text x="392" y="186" font-size="13" fill="#64748b" text-anchor="middle">曲线对不对得上</text>
+  </g>
+  <g>
+    <rect x="480" y="110" width="128" height="84" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+    <text x="544" y="140" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">第四步</text>
+    <text x="544" y="164" font-size="15" fill="#334155" text-anchor="middle">搜验证</text>
+    <text x="544" y="186" font-size="13" fill="#64748b" text-anchor="middle">前十名都是谁</text>
+  </g>
+  <g>
+    <rect x="632" y="110" width="128" height="84" rx="6" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+    <text x="696" y="140" font-size="15" font-weight="bold" fill="#ea580c" text-anchor="middle">第五步</text>
+    <text x="696" y="164" font-size="15" fill="#334155" text-anchor="middle">滚雪球</text>
+    <text x="696" y="186" font-size="13" fill="#64748b" text-anchor="middle">一词带出一串</text>
+  </g>
+  <line x1="154" y1="152" x2="174" y2="152" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="306" y1="152" x2="326" y2="152" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="458" y1="152" x2="478" y2="152" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="610" y1="152" x2="630" y2="152" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="400" y="252" font-size="13" fill="#64748b" text-anchor="middle">五步走完不是终点：第五步带出的新站，会变成下一轮的第一步</text>
+</svg>

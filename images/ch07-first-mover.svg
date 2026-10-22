@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" font-family="sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="360" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">先发优势是怎么兑现的</text>
+  <line x1="60" y1="120" x2="736" y2="120" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="110" y="88" font-size="15" font-weight="bold" fill="#ea580c" text-anchor="middle">第 0 天</text>
+  <circle cx="110" cy="120" r="8" fill="#ea580c"/>
+  <text x="110" y="160" font-size="14" fill="#334155" text-anchor="middle">词刚冒头</text>
+  <text x="110" y="182" font-size="14" fill="#334155" text-anchor="middle">首页先上线</text>
+  <text x="110" y="216" font-size="13" font-weight="bold" fill="#ea580c" text-anchor="middle">抢的就是这一天</text>
+  <text x="300" y="88" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">第 1 天</text>
+  <circle cx="300" cy="120" r="8" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="300" y="160" font-size="14" fill="#334155" text-anchor="middle">补教程页</text>
+  <text x="300" y="182" font-size="14" fill="#334155" text-anchor="middle">补对比页</text>
+  <text x="490" y="88" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">第 2 天</text>
+  <circle cx="490" cy="120" r="8" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="490" y="160" font-size="14" fill="#334155" text-anchor="middle">铺长尾内页</text>
+  <text x="490" y="182" font-size="14" fill="#334155" text-anchor="middle">求第一批外链</text>
+  <text x="672" y="88" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">第 3 天起</text>
+  <circle cx="672" cy="120" r="8" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="672" y="160" font-size="14" fill="#334155" text-anchor="middle">流量开始进来</text>
+  <text x="672" y="182" font-size="14" fill="#334155" text-anchor="middle">再考虑付费功能</text>
+  <text x="400" y="286" font-size="14" fill="#334155" text-anchor="middle">晚三天上线，面对的就不是空地，而是已经排好队的前十名</text>
+  <text x="400" y="316" font-size="13" fill="#64748b" text-anchor="middle">先发不是玄学：早收录、早积累点击数据，后来者要加倍努力才能挤掉你</text>
+</svg>

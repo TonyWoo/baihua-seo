@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="380" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">两种账：拼一个大词，还是攒一百个小词</text>
+  <text x="200" y="82" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">1 个头部词</text>
+  <text x="585" y="82" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">100 个长尾词</text>
+  <text x="70" y="112" font-size="13" fill="#64748b">月搜索量</text>
+  <rect x="70" y="120" width="260" height="30" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="70" y="172" font-size="13" fill="#334155">10 万次，看着很诱人</text>
+  <text x="70" y="206" font-size="13" fill="#64748b">实际下单（转化率低）</text>
+  <rect x="70" y="214" width="16" height="30" fill="#ea580c"/>
+  <text x="70" y="266" font-size="13" fill="#334155">排不进前十时，约等于零</text>
+  <text x="450" y="112" font-size="13" fill="#64748b">月搜索量（加总）</text>
+  <rect x="450" y="120" width="170" height="30" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="450" y="172" font-size="13" fill="#334155">加起来 6 万多次，不比大词少多少</text>
+  <text x="450" y="206" font-size="13" fill="#64748b">实际下单（来的人需求明确）</text>
+  <rect x="450" y="214" width="110" height="30" fill="#ea580c"/>
+  <text x="450" y="266" font-size="13" fill="#334155">每个词都小有进账，旱涝保收</text>
+  <text x="400" y="318" font-size="14" font-weight="bold" fill="#1e3a8a" text-anchor="middle">长尾的账不在搜索量，在转化率和竞争小</text>
+  <text x="400" y="346" font-size="13" fill="#64748b" text-anchor="middle">图中数字为示意，讲的是量级关系，不是某个站的真实数据</text>
+</svg>

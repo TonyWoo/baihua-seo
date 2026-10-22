@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="450" fill="#f5f8ff"/>
+  <text x="400" y="36" text-anchor="middle" font-size="20" font-weight="bold" fill="#1e40af">LCP 优化前后：卡点常常是一张大图</text>
+
+  <text x="425" y="64" text-anchor="middle" font-size="13" fill="#ea580c">LCP 及格线 2.5 秒</text>
+  <line x1="425" y1="70" x2="425" y2="352" stroke="#ea580c" stroke-width="2" stroke-dasharray="6 4"/>
+
+  <text x="40" y="110" font-size="15" font-weight="bold" fill="#64748b">优化前</text>
+  <rect x="150" y="92" width="66" height="20" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="224" y="107" font-size="12" fill="#334155">HTML 文档</text>
+  <rect x="216" y="124" width="77" height="20" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="301" y="139" font-size="12" fill="#334155">样式与脚本</text>
+  <rect x="293" y="156" width="385" height="20" fill="#ffedd5" stroke="#ea580c" stroke-width="2"/>
+  <text x="303" y="171" font-size="12" fill="#9a3412">首屏演示图（PNG，2.4MB）</text>
+  <path d="M678,146 l7,10 h-14 Z" fill="#ea580c"/>
+  <text x="678" y="138" text-anchor="middle" font-size="13" font-weight="bold" fill="#ea580c">LCP 4.8 秒</text>
+
+  <text x="40" y="264" font-size="15" font-weight="bold" fill="#2563eb">优化后</text>
+  <rect x="150" y="244" width="55" height="20" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="213" y="259" font-size="12" fill="#334155">HTML 文档</text>
+  <rect x="205" y="276" width="44" height="20" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="257" y="291" font-size="12" fill="#334155">样式</text>
+  <rect x="249" y="308" width="110" height="20" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="367" y="323" font-size="12" fill="#334155">首屏图（WebP，180KB）</text>
+  <path d="M359,298 l7,10 h-14 Z" fill="#2563eb"/>
+  <text x="359" y="290" text-anchor="middle" font-size="13" font-weight="bold" fill="#2563eb">LCP 1.9 秒</text>
+
+  <line x1="150" y1="352" x2="700" y2="352" stroke="#64748b" stroke-width="2"/>
+  <line x1="150" y1="352" x2="150" y2="358" stroke="#64748b" stroke-width="2"/>
+  <line x1="260" y1="352" x2="260" y2="358" stroke="#64748b" stroke-width="2"/>
+  <line x1="370" y1="352" x2="370" y2="358" stroke="#64748b" stroke-width="2"/>
+  <line x1="480" y1="352" x2="480" y2="358" stroke="#64748b" stroke-width="2"/>
+  <line x1="590" y1="352" x2="590" y2="358" stroke="#64748b" stroke-width="2"/>
+  <line x1="700" y1="352" x2="700" y2="358" stroke="#64748b" stroke-width="2"/>
+  <text x="150" y="376" text-anchor="middle" font-size="12" fill="#64748b">0 秒</text>
+  <text x="260" y="376" text-anchor="middle" font-size="12" fill="#64748b">1 秒</text>
+  <text x="370" y="376" text-anchor="middle" font-size="12" fill="#64748b">2 秒</text>
+  <text x="480" y="376" text-anchor="middle" font-size="12" fill="#64748b">3 秒</text>
+  <text x="590" y="376" text-anchor="middle" font-size="12" fill="#64748b">4 秒</text>
+  <text x="700" y="376" text-anchor="middle" font-size="12" fill="#64748b">5 秒</text>
+
+  <text x="400" y="416" text-anchor="middle" font-size="13" fill="#64748b">简化示意：多数页面卡 LCP，卡的不是服务器，而是首屏最大的那个文件。</text>
+</svg>

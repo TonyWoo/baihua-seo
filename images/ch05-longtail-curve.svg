@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="420" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">长尾曲线：头部的热闹，尾巴的饭碗</text>
+  <line x1="90" y1="340" x2="740" y2="340" stroke="#64748b" stroke-width="2"/>
+  <line x1="90" y1="340" x2="90" y2="80" stroke="#64748b" stroke-width="2"/>
+  <text x="46" y="210" font-size="14" fill="#64748b" text-anchor="middle" transform="rotate(-90 46 210)">单个词的搜索量</text>
+  <text x="415" y="368" font-size="14" fill="#64748b" text-anchor="middle">词的个数（从最热门排到最冷门）</text>
+  <path d="M 90 100 C 180 110, 230 200, 330 280 C 430 330, 620 336, 730 338" fill="none" stroke="#2563eb" stroke-width="3"/>
+  <line x1="262" y1="92" x2="262" y2="340" stroke="#64748b" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <text x="172" y="72" font-size="15" font-weight="bold" fill="#2563eb" text-anchor="middle">头部词：量大，挤破头</text>
+  <text x="505" y="118" font-size="15" font-weight="bold" fill="#2563eb" text-anchor="middle">长尾词：单个量小，加起来是大半个市场</text>
+  <circle cx="560" cy="331" r="6" fill="#ea580c"/>
+  <text x="560" y="302" font-size="14" font-weight="bold" fill="#ea580c" text-anchor="middle">新手的词，多半落在这条尾巴上</text>
+  <text x="400" y="400" font-size="13" fill="#64748b" text-anchor="middle">曲线右边每一个点，都是一小群明确知道自己要什么的人</text>
+</svg>

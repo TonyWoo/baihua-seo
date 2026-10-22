@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="300" fill="#ffffff"/>
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#2563eb" text-anchor="middle">Search Console 的五个数</text>
+  <rect x="60" y="72" width="430" height="58" rx="6" fill="#f5f8ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="275" y="107" font-size="15" fill="#334155" text-anchor="middle">展示：出现在搜索结果里的次数</text>
+  <line x1="275" y1="134" x2="275" y2="178" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="300" y="162" font-size="15" fill="#ea580c">点击率等于点击除以展示</text>
+  <rect x="115" y="186" width="320" height="58" rx="6" fill="#f5f8ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="275" y="221" font-size="15" fill="#334155" text-anchor="middle">点击：真正点进来的人数</text>
+  <rect x="540" y="72" width="220" height="58" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="650" y="98" font-size="15" fill="#334155" text-anchor="middle">平均排名</text>
+  <text x="650" y="120" font-size="13" fill="#64748b" text-anchor="middle">位置越靠前越容易被点</text>
+  <rect x="540" y="186" width="220" height="58" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="650" y="212" font-size="15" fill="#334155" text-anchor="middle">收录覆盖率</text>
+  <text x="650" y="234" font-size="13" fill="#64748b" text-anchor="middle">没被收录，后面都免谈</text>
+  <text x="400" y="278" font-size="13" fill="#64748b" text-anchor="middle">看法顺序：先确认收录没出事，再看展示和点击，最后用点击率和排名找原因。</text>
+</svg>

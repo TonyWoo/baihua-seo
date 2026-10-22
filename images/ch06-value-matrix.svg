@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="420" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">先做哪一批：难度和价值的四格图</text>
+  <rect x="130" y="80" width="285" height="125" fill="#eff6ff"/>
+  <rect x="415" y="80" width="285" height="125" fill="#ffffff"/>
+  <rect x="130" y="205" width="285" height="125" fill="#ffffff"/>
+  <rect x="415" y="205" width="285" height="125" fill="#ffffff"/>
+  <rect x="130" y="80" width="570" height="250" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <line x1="415" y1="80" x2="415" y2="330" stroke="#64748b" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <line x1="130" y1="205" x2="700" y2="205" stroke="#64748b" stroke-width="1.5" stroke-dasharray="6 5"/>
+  <text x="60" y="205" font-size="14" fill="#64748b" text-anchor="middle" transform="rotate(-90 60 205)">商业价值：低 → 高</text>
+  <text x="130" y="362" font-size="14" fill="#64748b">难度低</text>
+  <text x="700" y="362" font-size="14" fill="#64748b" text-anchor="end">难度高</text>
+  <text x="272" y="128" font-size="16" font-weight="bold" fill="#2563eb" text-anchor="middle">先做这一批</text>
+  <text x="272" y="152" font-size="13" fill="#64748b" text-anchor="middle">价值高，难度低</text>
+  <circle cx="238" cy="180" r="6" fill="#ea580c"/>
+  <text x="254" y="185" font-size="13" fill="#ea580c">第一批词先落在这里</text>
+  <text x="557" y="128" font-size="16" font-weight="bold" fill="#1e3a8a" text-anchor="middle">排队等权重</text>
+  <text x="557" y="152" font-size="13" fill="#64748b" text-anchor="middle">价值高，难度也高，先记下来</text>
+  <text x="272" y="258" font-size="16" font-weight="bold" fill="#1e3a8a" text-anchor="middle">顺手做，别指望</text>
+  <text x="272" y="282" font-size="13" fill="#64748b" text-anchor="middle">价值低，难度低，练手可以</text>
+  <text x="557" y="258" font-size="16" font-weight="bold" fill="#ea580c" text-anchor="middle">直接放弃</text>
+  <text x="557" y="282" font-size="13" fill="#64748b" text-anchor="middle">费力又不赚钱，别心疼</text>
+  <text x="400" y="398" font-size="13" fill="#64748b" text-anchor="middle">词表不是越长越好：顺序排对了，三个月顶别人半年</text>
+</svg>

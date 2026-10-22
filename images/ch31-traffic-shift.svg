@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 370" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="370" fill="#f5f8ff"/>
+  <text x="30" y="42" font-size="20" fill="#2563eb" font-weight="bold">阿哲的站：流量结构的变化（示意）</text>
+  <text x="30" y="128" font-size="15" fill="#334155">两年前</text>
+  <rect x="150" y="102" width="519" height="46" fill="#2563eb"/>
+  <rect x="669" y="102" width="71" height="46" fill="#94a3b8"/>
+  <text x="409" y="131" font-size="15" fill="#ffffff" text-anchor="middle">传统搜索点击 88%</text>
+  <text x="704" y="131" font-size="13" fill="#ffffff" text-anchor="middle">12%</text>
+  <text x="30" y="208" font-size="15" fill="#334155">现在</text>
+  <rect x="150" y="182" width="307" height="46" fill="#2563eb"/>
+  <rect x="457" y="182" width="77" height="46" fill="#ea580c"/>
+  <rect x="534" y="182" width="130" height="46" fill="#60a5fa"/>
+  <rect x="664" y="182" width="76" height="46" fill="#94a3b8"/>
+  <text x="303" y="211" font-size="15" fill="#ffffff" text-anchor="middle">传统搜索点击 52%</text>
+  <text x="495" y="211" font-size="13" fill="#ffffff" text-anchor="middle">13%</text>
+  <text x="599" y="211" font-size="13" fill="#ffffff" text-anchor="middle">22%</text>
+  <text x="702" y="211" font-size="13" fill="#ffffff" text-anchor="middle">13%</text>
+  <rect x="150" y="262" width="16" height="16" fill="#2563eb"/>
+  <text x="174" y="275" font-size="13" fill="#334155">传统搜索点击</text>
+  <rect x="310" y="262" width="16" height="16" fill="#ea580c"/>
+  <text x="334" y="275" font-size="13" fill="#334155">AI 引荐</text>
+  <rect x="420" y="262" width="16" height="16" fill="#60a5fa"/>
+  <text x="444" y="275" font-size="13" fill="#334155">品牌搜索与直接访问</text>
+  <rect x="620" y="262" width="16" height="16" fill="#94a3b8"/>
+  <text x="644" y="275" font-size="13" fill="#334155">社区、视频与其他</text>
+  <text x="30" y="322" font-size="13" fill="#64748b">数字为量级示意：总盘子没有塌，是结构换了。</text>
+</svg>

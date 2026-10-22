@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="430" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">几百个排名因素，能动手的只有十来个</text>
+
+  <polygon points="90,66 710,66 672,118 128,118" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="99" font-size="15" fill="#334155" text-anchor="middle">网传排名因素：200 多个，大半是猜测</text>
+  <polygon points="150,132 650,132 616,184 184,184" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="165" font-size="15" fill="#334155" text-anchor="middle">真有分量的：几十个，还互相纠缠</text>
+  <polygon points="215,198 585,198 552,250 248,250" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="400" y="231" font-size="15" font-weight="bold" fill="#ea580c" text-anchor="middle">你能亲手改的：十来个</text>
+
+  <rect x="88" y="276" width="152" height="36" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="164" y="299" font-size="14" fill="#334155" text-anchor="middle">意图与标题对齐</text>
+  <rect x="256" y="276" width="152" height="36" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="332" y="299" font-size="14" fill="#334155" text-anchor="middle">内容答全答准</text>
+  <rect x="424" y="276" width="152" height="36" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="500" y="299" font-size="14" fill="#334155" text-anchor="middle">内链结构清楚</text>
+  <rect x="592" y="276" width="152" height="36" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="668" y="299" font-size="14" fill="#334155" text-anchor="middle">外链质量过硬</text>
+
+  <rect x="88" y="326" width="152" height="36" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="164" y="349" font-size="14" fill="#334155" text-anchor="middle">打开速度够快</text>
+  <rect x="256" y="326" width="152" height="36" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="332" y="349" font-size="14" fill="#334155" text-anchor="middle">手机上好用</text>
+  <rect x="424" y="326" width="152" height="36" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="500" y="349" font-size="14" fill="#334155" text-anchor="middle">排版读着不累</text>
+  <rect x="592" y="326" width="152" height="36" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="668" y="349" font-size="14" fill="#334155" text-anchor="middle">持续更新维护</text>
+
+  <text x="400" y="398" font-size="13" fill="#64748b" text-anchor="middle">这本书后面六篇，讲的全是这十来个能动手的因素</text>
+</svg>

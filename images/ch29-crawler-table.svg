@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="470" fill="#f5f8ff"/>
+  <text x="30" y="42" font-size="20" fill="#2563eb" font-weight="bold">AI 爬虫分三类：拦谁、放谁，先分清再动手</text>
+  <rect x="30" y="66" width="740" height="42" fill="#2563eb"/>
+  <text x="46" y="93" font-size="15" fill="#ffffff" font-weight="bold">类别</text>
+  <text x="196" y="93" font-size="15" fill="#ffffff" font-weight="bold">代表</text>
+  <text x="346" y="93" font-size="15" fill="#ffffff" font-weight="bold">它来干什么</text>
+  <text x="576" y="93" font-size="15" fill="#ffffff" font-weight="bold">建议</text>
+  <rect x="30" y="108" width="740" height="86" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <text x="46" y="146" font-size="15" fill="#334155" font-weight="bold">训练爬虫</text>
+  <text x="46" y="172" font-size="13" fill="#64748b">第一类</text>
+  <text x="196" y="146" font-size="15" fill="#334155">GPTBot 等</text>
+  <text x="346" y="146" font-size="15" fill="#334155">抓内容去训练模型</text>
+  <text x="576" y="146" font-size="15" fill="#334155">拦或放都行</text>
+  <text x="576" y="172" font-size="13" fill="#64748b">不影响搜索里出现</text>
+  <rect x="30" y="194" width="740" height="86" fill="#ffffff" stroke="#ea580c" stroke-width="2"/>
+  <text x="46" y="232" font-size="15" fill="#334155" font-weight="bold">搜索爬虫</text>
+  <text x="46" y="258" font-size="13" fill="#64748b">第二类</text>
+  <text x="196" y="232" font-size="15" fill="#334155">OAI-SearchBot 等</text>
+  <text x="346" y="232" font-size="15" fill="#334155">决定你进不进 AI 的搜索答案</text>
+  <text x="576" y="232" font-size="15" fill="#ea580c" font-weight="bold">必须放行</text>
+  <text x="576" y="258" font-size="13" fill="#64748b">封了等于自己除名</text>
+  <rect x="30" y="280" width="740" height="86" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <text x="46" y="318" font-size="15" fill="#334155" font-weight="bold">用户触发</text>
+  <text x="46" y="344" font-size="13" fill="#64748b">第三类</text>
+  <text x="196" y="318" font-size="15" fill="#334155">ChatGPT-User 等</text>
+  <text x="346" y="318" font-size="15" fill="#334155">用户让 AI 来打开你的页面</text>
+  <text x="576" y="318" font-size="15" fill="#334155">放行</text>
+  <text x="576" y="344" font-size="13" fill="#64748b">这就是真实访问</text>
+  <text x="30" y="404" font-size="13" fill="#64748b">各家都有训练与搜索两类爬虫，名字不同，逻辑相同。</text>
+  <text x="30" y="428" font-size="13" fill="#64748b">改 robots 之前，先去服务器日志里看：它们在你这儿吃的是 200，还是 403。</text>
+</svg>

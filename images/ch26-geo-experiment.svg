@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif">
+  <rect width="800" height="380" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">给内容补材料，可见度涨多少</text>
+
+  <text x="215" y="116" font-size="15" fill="#334155" text-anchor="end">加引言</text>
+  <rect x="230" y="90" width="175" height="38" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="419" y="116" font-size="15" fill="#1e3a8a">+15.2%</text>
+
+  <text x="215" y="186" font-size="15" fill="#334155" text-anchor="end">加统计数据</text>
+  <rect x="230" y="160" width="83" height="38" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="327" y="186" font-size="15" fill="#1e3a8a">+7.2%</text>
+
+  <text x="215" y="256" font-size="15" fill="#334155" text-anchor="end">多种方法组合</text>
+  <rect x="230" y="230" width="460" height="38" rx="6" fill="#ffedd5" stroke="#ea580c" stroke-width="2"/>
+  <text x="704" y="256" font-size="15" fill="#9a3412">最高约 +40%</text>
+
+  <text x="400" y="322" font-size="13" fill="#64748b" text-anchor="middle">数据：普林斯顿、佐治亚理工等机构的 GEO 论文（KDD 2024），测的是页面在 AI 回答中的可见度。</text>
+  <text x="400" y="346" font-size="13" fill="#64748b" text-anchor="middle">同一个实验里，小站的提升幅度整体比大站更明显。</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="sans-serif">
+  <defs>
+    <marker id="arrowB" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#2563eb"/></marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="440" fill="#f5f8ff"/>
+  <text x="400" y="36" text-anchor="middle" font-size="20" font-weight="bold" fill="#1e40af">hreflang 是一张互指的网：缺一根线，整组作废</text>
+
+  <path d="M150,96 C150,68 240,68 240,92" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#arrowB)"/>
+  <text x="195" y="62" text-anchor="middle" font-size="12" fill="#2563eb">自引用：名单里也要有自己</text>
+  <path d="M560,96 C560,68 650,68 650,92" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#arrowB)"/>
+  <text x="605" y="62" text-anchor="middle" font-size="12" fill="#2563eb">自引用：名单里也要有自己</text>
+
+  <rect x="60" y="96" width="270" height="64" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="195" y="124" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">英语页</text>
+  <text x="195" y="146" text-anchor="middle" font-size="12" fill="#64748b">/compress-png/</text>
+  <rect x="470" y="96" width="270" height="64" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="605" y="124" text-anchor="middle" font-size="15" font-weight="bold" fill="#1f2937">西语页</text>
+  <text x="605" y="146" text-anchor="middle" font-size="12" fill="#64748b">/es/comprimir-png/</text>
+
+  <line x1="330" y1="116" x2="466" y2="116" stroke="#2563eb" stroke-width="2" marker-end="url(#arrowB)"/>
+  <text x="400" y="106" text-anchor="middle" font-size="12" fill="#2563eb">名单包含对方网址</text>
+  <line x1="470" y1="142" x2="334" y2="142" stroke="#2563eb" stroke-width="2" marker-end="url(#arrowB)"/>
+  <text x="400" y="164" text-anchor="middle" font-size="12" fill="#2563eb">对方名单也要包含我</text>
+
+  <line x1="345" y1="232" x2="245" y2="164" stroke="#64748b" stroke-width="2" stroke-dasharray="6 4"/>
+  <line x1="455" y1="232" x2="555" y2="164" stroke="#64748b" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="400" y="206" text-anchor="middle" font-size="12" fill="#64748b">每页的名单里都要声明它</text>
+  <rect x="290" y="232" width="220" height="48" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="254" text-anchor="middle" font-size="14" font-weight="bold" fill="#1f2937">x-default 兜底页</text>
+  <text x="400" y="272" text-anchor="middle" font-size="12" fill="#64748b">通常指向默认语言版（英语页）</text>
+
+  <rect x="60" y="316" width="680" height="72" rx="6" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="84" y="344" font-size="15" font-weight="bold" fill="#ea580c">最容易犯的错</text>
+  <text x="84" y="370" font-size="13" fill="#7c2d12">只在一页写了指向，另一页没回指：谷歌会把整组名单当不存在，西语版按副本处理。</text>
+</svg>

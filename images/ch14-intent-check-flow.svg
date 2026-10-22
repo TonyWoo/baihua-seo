@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="470" fill="#f5f8ff"/>
+  <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="bold" fill="#2563eb">动笔之前：五步意图对齐</text>
+  <rect x="150" y="64" width="500" height="54" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="186" cy="91" r="15" fill="#2563eb"/>
+  <text x="186" y="97" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">1</text>
+  <text x="222" y="97" font-size="15" fill="#1e293b"><tspan font-weight="bold">搜这个词</tspan>：先看第一页排了谁</text>
+  <line x1="400" y1="118" x2="400" y2="132" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="150" y="134" width="500" height="54" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="186" cy="161" r="15" fill="#2563eb"/>
+  <text x="186" y="167" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">2</text>
+  <text x="222" y="167" font-size="15" fill="#1e293b"><tspan font-weight="bold">数清形态</tspan>：工具、文章、视频各占几席</text>
+  <line x1="400" y1="188" x2="400" y2="202" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="150" y="204" width="500" height="54" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="186" cy="231" r="15" fill="#2563eb"/>
+  <text x="186" y="237" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">3</text>
+  <text x="222" y="237" font-size="15" fill="#1e293b"><tspan font-weight="bold">定主导意图</tspan>：用户最想完成的那个动作</text>
+  <line x1="400" y1="258" x2="400" y2="272" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="150" y="274" width="500" height="54" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="186" cy="301" r="15" fill="#2563eb"/>
+  <text x="186" y="307" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">4</text>
+  <text x="222" y="307" font-size="15" fill="#1e293b"><tspan font-weight="bold">定页面形态</tspan>：跟着主导意图做同类页面</text>
+  <line x1="400" y1="328" x2="400" y2="342" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <rect x="150" y="344" width="500" height="54" rx="6" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <circle cx="186" cy="371" r="15" fill="#ea580c"/>
+  <text x="186" y="377" text-anchor="middle" font-size="15" font-weight="bold" fill="#ffffff">5</text>
+  <text x="222" y="377" font-size="15" fill="#1e293b"><tspan font-weight="bold">找内容缝隙</tspan>：前十没答好的，就是机会</text>
+  <text x="400" y="446" text-anchor="middle" font-size="13" fill="#64748b">五步做完，才轮到拼文采</text>
+</svg>

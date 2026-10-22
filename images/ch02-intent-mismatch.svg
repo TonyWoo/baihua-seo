@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 390" font-family="sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#2563eb"/>
+    </marker>
+    <marker id="arro" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#ea580c"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="390" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">意图对不上：写得再好也白搭</text>
+
+  <rect x="235" y="60" width="330" height="64" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="88" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">用户搜索：jpg 转 png</text>
+  <text x="400" y="110" font-size="13" fill="#64748b" text-anchor="middle">他想要的是：立刻把图片换个格式</text>
+
+  <line x1="330" y1="124" x2="215" y2="168" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="470" y1="124" x2="585" y2="168" stroke="#ea580c" stroke-width="2" marker-end="url(#arro)"/>
+
+  <rect x="40" y="176" width="340" height="140" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="210" y="206" font-size="16" font-weight="bold" fill="#1e3a8a" text-anchor="middle">意图对得上</text>
+  <text x="210" y="238" font-size="15" fill="#334155" text-anchor="middle">页面打开就是转换工具</text>
+  <text x="210" y="264" font-size="15" fill="#334155" text-anchor="middle">用户当场把任务办完</text>
+  <text x="210" y="290" font-size="15" fill="#334155" text-anchor="middle">谷歌的判断：这页答对了</text>
+
+  <rect x="420" y="176" width="340" height="140" rx="6" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="590" y="206" font-size="16" font-weight="bold" fill="#ea580c" text-anchor="middle">意图对不上</text>
+  <text x="590" y="238" font-size="15" fill="#334155" text-anchor="middle">页面是三千字的格式发展史</text>
+  <text x="590" y="264" font-size="15" fill="#334155" text-anchor="middle">用户三秒退出，重新搜</text>
+  <text x="590" y="290" font-size="15" fill="#334155" text-anchor="middle">谷歌的判断：答非所问</text>
+
+  <text x="400" y="352" font-size="15" fill="#334155" text-anchor="middle">用户退出，不是因为你写得差，而是你答的不是他问的</text>
+</svg>
