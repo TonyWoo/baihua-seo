@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="380" fill="#f5f8ff"/>
+  <text x="30" y="42" font-size="20" fill="#2563eb" font-weight="bold">GEO 要量的三件事</text>
+  <rect x="30" y="84" width="240" height="200" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="150" y="122" font-size="15" fill="#334155" text-anchor="middle" font-weight="bold">提及率</text>
+  <text x="150" y="156" font-size="13" fill="#64748b" text-anchor="middle">问 30 条问题，</text>
+  <text x="150" y="180" font-size="13" fill="#64748b" text-anchor="middle">AI 提到你名字的比例</text>
+  <text x="150" y="226" font-size="13" fill="#334155" text-anchor="middle">看的是：</text>
+  <text x="150" y="250" font-size="13" fill="#334155" text-anchor="middle">口碑有没有长出来</text>
+  <rect x="280" y="84" width="240" height="200" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="122" font-size="15" fill="#334155" text-anchor="middle" font-weight="bold">引用份额</text>
+  <text x="400" y="156" font-size="13" fill="#64748b" text-anchor="middle">被引的链接里，</text>
+  <text x="400" y="180" font-size="13" fill="#64748b" text-anchor="middle">你占多少，和对手比呢</text>
+  <text x="400" y="226" font-size="13" fill="#334155" text-anchor="middle">看的是：</text>
+  <text x="400" y="250" font-size="13" fill="#334155" text-anchor="middle">答案里的话语权</text>
+  <rect x="530" y="84" width="240" height="200" rx="6" fill="#ffffff" stroke="#ea580c" stroke-width="2"/>
+  <text x="650" y="122" font-size="15" fill="#334155" text-anchor="middle" font-weight="bold">引荐转化</text>
+  <text x="650" y="156" font-size="13" fill="#64748b" text-anchor="middle">从 AI 答案点进来的人，</text>
+  <text x="650" y="180" font-size="13" fill="#64748b" text-anchor="middle">最后下单了吗</text>
+  <text x="650" y="226" font-size="13" fill="#334155" text-anchor="middle">看的是：</text>
+  <text x="650" y="250" font-size="13" fill="#334155" text-anchor="middle">这批流量值多少钱</text>
+  <text x="30" y="330" font-size="13" fill="#64748b">前两件靠自己的记录表，第三件看 GA 里的引荐来源，如 chatgpt.com、perplexity.ai。</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="470" fill="#ffffff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#2563eb" text-anchor="middle">每个数不对劲时，先查这一件</text>
+  <rect x="40" y="104" width="720" height="62" fill="#f5f8ff"/>
+  <rect x="40" y="228" width="720" height="62" fill="#f5f8ff"/>
+  <rect x="40" y="352" width="720" height="62" fill="#f5f8ff"/>
+  <rect x="40" y="64" width="720" height="350" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <rect x="40" y="64" width="720" height="40" fill="#2563eb"/>
+  <line x1="200" y1="64" x2="200" y2="414" stroke="#64748b" stroke-width="1"/>
+  <line x1="440" y1="64" x2="440" y2="414" stroke="#64748b" stroke-width="1"/>
+  <line x1="40" y1="104" x2="760" y2="104" stroke="#64748b" stroke-width="1"/>
+  <line x1="40" y1="166" x2="760" y2="166" stroke="#64748b" stroke-width="1"/>
+  <line x1="40" y1="228" x2="760" y2="228" stroke="#64748b" stroke-width="1"/>
+  <line x1="40" y1="290" x2="760" y2="290" stroke="#64748b" stroke-width="1"/>
+  <line x1="40" y1="352" x2="760" y2="352" stroke="#64748b" stroke-width="1"/>
+  <text x="56" y="90" font-size="15" font-weight="bold" fill="#ffffff">看哪个数</text>
+  <text x="216" y="90" font-size="15" font-weight="bold" fill="#ffffff">异常长什么样</text>
+  <text x="456" y="90" font-size="15" font-weight="bold" fill="#ffffff">先查什么</text>
+  <text x="56" y="142" font-size="15" fill="#334155">展示次数</text>
+  <text x="216" y="142" font-size="15" fill="#334155">几天内掉三成以上</text>
+  <text x="456" y="142" font-size="15" fill="#334155">先查收录覆盖，再查改动记录</text>
+  <text x="56" y="204" font-size="15" fill="#334155">点击次数</text>
+  <text x="216" y="204" font-size="15" fill="#334155">展示没变，点击变少</text>
+  <text x="456" y="204" font-size="15" fill="#334155">先查平均排名，再查标题和摘要</text>
+  <text x="56" y="266" font-size="15" fill="#334155">点击率</text>
+  <text x="216" y="266" font-size="15" fill="#334155">排名没动，点击率下滑</text>
+  <text x="456" y="266" font-size="15" fill="#334155">先查标题是否被改、对手是否变强</text>
+  <text x="56" y="328" font-size="15" fill="#334155">平均排名</text>
+  <text x="216" y="328" font-size="15" fill="#334155">慢慢往下漂，波动变大</text>
+  <text x="456" y="328" font-size="15" fill="#334155">先查内容是否过时、对手是否更新</text>
+  <text x="56" y="390" font-size="15" fill="#334155">收录覆盖率</text>
+  <text x="216" y="390" font-size="15" fill="#334155">未收录页面突然变多</text>
+  <text x="456" y="390" font-size="15" fill="#334155">先查新页面质量和抓取报错</text>
+  <text x="400" y="446" font-size="13" fill="#ea580c" text-anchor="middle">顺序别反：先保住收录这条命，再看流量，最后抠细节。</text>
+</svg>

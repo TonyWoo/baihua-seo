@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="400" fill="#ffffff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#2563eb" text-anchor="middle">先分清：是大盘的问题，还是自己的问题</text>
+  <rect x="40" y="64" width="350" height="46" fill="#2563eb"/>
+  <text x="215" y="94" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle">像大盘问题</text>
+  <rect x="410" y="64" width="350" height="46" fill="#ffffff" stroke="#ea580c" stroke-width="2"/>
+  <text x="585" y="94" font-size="15" font-weight="bold" fill="#ea580c" text-anchor="middle">像自己的问题</text>
+  <rect x="40" y="110" width="350" height="200" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <rect x="410" y="110" width="350" height="200" fill="#ffffff" stroke="#ea580c" stroke-width="2"/>
+  <text x="64" y="150" font-size="15" fill="#334155">· 同行站点在同一周一起跌</text>
+  <text x="64" y="190" font-size="15" fill="#334155">· 正好撞上算法更新的窗口</text>
+  <text x="64" y="230" font-size="15" fill="#334155">· 全站各个栏目都在跌</text>
+  <text x="64" y="270" font-size="15" fill="#334155">· 自己最近什么都没动过</text>
+  <text x="434" y="150" font-size="15" fill="#334155">· 只有自己跌，同行没事</text>
+  <text x="434" y="190" font-size="15" fill="#334155">· 跌幅集中在某几类页面</text>
+  <text x="434" y="230" font-size="15" fill="#334155">· 时间点对得上某次改版</text>
+  <text x="434" y="270" font-size="15" fill="#334155">· 收录数在悄悄变少</text>
+  <text x="400" y="352" font-size="15" font-weight="bold" fill="#334155" text-anchor="middle">大盘问题先等和观察，个案问题顺着顺序表往下查。</text>
+</svg>

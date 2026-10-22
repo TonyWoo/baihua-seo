@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="380" fill="#f5f8ff"/>
+  <text x="400" y="36" text-anchor="middle" font-size="20" font-weight="bold" fill="#1e40af">点击深度：离首页越远，待遇越差</text>
+
+  <rect x="120" y="120" width="90" height="170" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="165" y="108" text-anchor="middle" font-size="15" fill="#1e40af">待遇最佳</text>
+  <rect x="290" y="160" width="90" height="130" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="335" y="148" text-anchor="middle" font-size="15" fill="#1e40af">正常</text>
+  <rect x="460" y="205" width="90" height="85" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="505" y="193" text-anchor="middle" font-size="15" fill="#1e40af">明显变差</text>
+  <rect x="630" y="250" width="90" height="40" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="675" y="238" text-anchor="middle" font-size="15" font-weight="bold" fill="#ea580c">危险区</text>
+
+  <line x1="60" y1="290" x2="760" y2="290" stroke="#64748b" stroke-width="2"/>
+  <text x="165" y="316" text-anchor="middle" font-size="15" fill="#334155">点 1 次到达</text>
+  <text x="335" y="316" text-anchor="middle" font-size="15" fill="#334155">点 2 次到达</text>
+  <text x="505" y="316" text-anchor="middle" font-size="15" fill="#334155">点 3 次到达</text>
+  <text x="675" y="316" text-anchor="middle" font-size="15" fill="#334155">点 4 次以上</text>
+
+  <text x="400" y="352" text-anchor="middle" font-size="13" fill="#64748b">示意图，表达普遍规律而非精确数据：重要页面要往浅处放，别让它超过 3 次点击。</text>
+</svg>

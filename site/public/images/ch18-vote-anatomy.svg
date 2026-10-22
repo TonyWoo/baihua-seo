@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="380" fill="#f5f8ff"/>
+  <text x="400" y="38" text-anchor="middle" font-size="20" fill="#2563eb">一张选票的全貌</text>
+
+  <rect x="30" y="80" width="200" height="58" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="130" y="105" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e293b">谁投的</text>
+  <text x="130" y="127" text-anchor="middle" font-size="13" fill="#64748b">投票站本身的分量</text>
+
+  <rect x="570" y="80" width="200" height="58" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="670" y="105" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e293b">投给谁</text>
+  <text x="670" y="127" text-anchor="middle" font-size="13" fill="#64748b">指向哪个具体页面</text>
+
+  <rect x="30" y="262" width="200" height="58" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="130" y="287" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e293b">票面写什么</text>
+  <text x="130" y="309" text-anchor="middle" font-size="13" fill="#64748b">锚文本就是评语</text>
+
+  <rect x="570" y="262" width="200" height="58" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="670" y="287" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e293b">算不算数</text>
+  <text x="670" y="309" text-anchor="middle" font-size="13" fill="#ea580c">带 nofollow 只算提一句</text>
+
+  <line x1="230" y1="109" x2="278" y2="132" stroke="#64748b" stroke-width="1.5"/>
+  <line x1="570" y1="109" x2="522" y2="132" stroke="#64748b" stroke-width="1.5"/>
+  <line x1="230" y1="291" x2="278" y2="252" stroke="#64748b" stroke-width="1.5"/>
+  <line x1="570" y1="291" x2="522" y2="252" stroke="#64748b" stroke-width="1.5"/>
+
+  <rect x="280" y="120" width="240" height="140" rx="8" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="152" text-anchor="middle" font-size="18" font-weight="bold" fill="#1e293b">一张选票</text>
+  <line x1="305" y1="166" x2="495" y2="166" stroke="#2563eb" stroke-width="1" opacity="0.35"/>
+  <text x="400" y="194" text-anchor="middle" font-size="13" fill="#64748b">链接上的文字写着</text>
+  <text x="400" y="222" text-anchor="middle" font-size="15" font-weight="bold" fill="#2563eb">「图片压缩实测数据」</text>
+  <text x="400" y="246" text-anchor="middle" font-size="13" fill="#64748b">出自同行博客的文章正文</text>
+
+  <text x="400" y="356" text-anchor="middle" font-size="13" fill="#64748b">四个问题都问一遍，才知道一条链接到底值多少</text>
+</svg>

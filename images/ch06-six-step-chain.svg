@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="380" fill="#f5f8ff"/>
+  <text x="400" y="36" text-anchor="middle" font-size="20" fill="#2563eb" font-weight="bold">做站的六步链：决定成败的是两头</text>
+
+  <!-- step boxes row 1 -->
+  <g font-size="15" fill="#1e3a5f">
+    <rect x="30" y="70" width="170" height="86" fill="#fff7ed" stroke="#ea580c" stroke-width="2.5" rx="8"/>
+    <text x="115" y="100" text-anchor="middle" font-weight="bold" fill="#ea580c">1 挖词找需求</text>
+    <text x="115" y="126" text-anchor="middle" font-size="13">人们在主动找什么</text>
+    <text x="115" y="146" text-anchor="middle" font-size="13">哪些问题反复出现</text>
+
+    <rect x="230" y="70" width="170" height="86" fill="#fff7ed" stroke="#ea580c" stroke-width="2.5" rx="8"/>
+    <text x="315" y="100" text-anchor="middle" font-weight="bold" fill="#ea580c">2 理解需求</text>
+    <text x="315" y="126" text-anchor="middle" font-size="13">谁在什么场景下搜</text>
+    <text x="315" y="146" text-anchor="middle" font-size="13">现有办法哪里不好</text>
+
+    <rect x="430" y="70" width="170" height="86" fill="#ffffff" stroke="#2563eb" stroke-width="2" rx="8"/>
+    <text x="515" y="100" text-anchor="middle" font-weight="bold" fill="#2563eb">3 做站满足需求</text>
+    <text x="515" y="126" text-anchor="middle" font-size="13">内容、工具、商品</text>
+    <text x="515" y="146" text-anchor="middle" font-size="13">帮他拿到结果</text>
+  </g>
+
+  <!-- arrows row 1 -->
+  <g stroke="#2563eb" stroke-width="2" fill="#2563eb">
+    <line x1="200" y1="113" x2="222" y2="113"/><polygon points="222,107 234,113 222,119"/>
+    <line x1="400" y1="113" x2="422" y2="113"/><polygon points="422,107 434,113 422,119"/>
+  </g>
+  <!-- down arrow to row 2 -->
+  <g stroke="#2563eb" stroke-width="2" fill="#2563eb">
+    <line x1="685" y1="70" x2="685" y2="196"/><polygon points="679,196 685,208 691,196"/>
+    <line x1="600" y1="113" x2="685" y2="113"/>
+  </g>
+
+  <!-- step boxes row 2 (right to left flow: 4,5,6) -->
+  <g font-size="15" fill="#1e3a5f">
+    <rect x="600" y="210" width="170" height="86" fill="#ffffff" stroke="#2563eb" stroke-width="2" rx="8"/>
+    <text x="685" y="240" text-anchor="middle" font-weight="bold" fill="#2563eb">4 获取流量</text>
+    <text x="685" y="266" text-anchor="middle" font-size="13">SEO、SEM、GEO</text>
+    <text x="685" y="286" text-anchor="middle" font-size="13">让有需求的人找到你</text>
+
+    <rect x="400" y="210" width="170" height="86" fill="#ffffff" stroke="#2563eb" stroke-width="2" rx="8"/>
+    <text x="485" y="240" text-anchor="middle" font-weight="bold" fill="#2563eb">5 承接流量</text>
+    <text x="485" y="266" text-anchor="middle" font-size="13">看懂、信任、用起来</text>
+    <text x="485" y="286" text-anchor="middle" font-size="13">咨询或者下单</text>
+
+    <rect x="200" y="210" width="170" height="86" fill="#fff7ed" stroke="#ea580c" stroke-width="2.5" rx="8"/>
+    <text x="285" y="240" text-anchor="middle" font-weight="bold" fill="#ea580c">6 流量变现</text>
+    <text x="285" y="266" text-anchor="middle" font-size="13">付费、广告、佣金</text>
+    <text x="285" y="286" text-anchor="middle" font-size="13">先想清这一步再挑词</text>
+  </g>
+
+  <!-- arrows row 2 (flow runs right to left: 4 to 5 to 6) -->
+  <g stroke="#2563eb" stroke-width="2" fill="#2563eb">
+    <line x1="598" y1="253" x2="580" y2="253"/><polygon points="580,246 580,260 566,253"/>
+    <line x1="398" y1="253" x2="380" y2="253"/><polygon points="380,246 380,260 366,253"/>
+  </g>
+
+  <!-- backwards arrow -->
+  <g stroke="#ea580c" stroke-width="2" fill="none" stroke-dasharray="6 4">
+    <path d="M 285 296 L 285 340 L 115 340 L 115 162"/>
+  </g>
+  <polygon points="109,168 115,156 121,168" fill="#ea580c"/>
+  <text x="330" y="332" font-size="14" fill="#ea580c" font-weight="bold">倒着想：先定第 6 步怎么赚钱，再回头挑第 1 步的词</text>
+  <text x="400" y="368" text-anchor="middle" font-size="13" fill="#64748b">中间三步是执行，AI 让它越来越便宜；两头是判断，便宜不了</text>
+</svg>

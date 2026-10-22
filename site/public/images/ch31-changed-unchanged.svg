@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="450" fill="#f5f8ff"/>
+  <text x="30" y="42" font-size="20" fill="#2563eb" font-weight="bold">SEO 变了什么，没变什么</text>
+  <rect x="30" y="66" width="360" height="320" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <rect x="30" y="66" width="360" height="42" fill="#2563eb"/>
+  <text x="50" y="93" font-size="15" fill="#ffffff" font-weight="bold">变了的（打法层）</text>
+  <text x="50" y="138" font-size="15" fill="#334155" font-weight="bold">点击变少</text>
+  <text x="50" y="162" font-size="13" fill="#64748b">零点击搜索约占 68%，答案在结果页给完</text>
+  <text x="50" y="204" font-size="15" fill="#334155" font-weight="bold">理解单位变小</text>
+  <text x="50" y="228" font-size="13" fill="#64748b">AI 按段落和实体理解你，不再只看整页</text>
+  <text x="50" y="270" font-size="15" fill="#334155" font-weight="bold">投票变宽</text>
+  <text x="50" y="294" font-size="13" fill="#64748b">外链之外，提及、测评、社区讨论也算数</text>
+  <text x="50" y="336" font-size="15" fill="#334155" font-weight="bold">账本变厚</text>
+  <text x="50" y="360" font-size="13" fill="#64748b">除了排名点击，还要看引用与品牌搜索</text>
+  <rect x="410" y="66" width="360" height="320" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <rect x="410" y="66" width="360" height="42" fill="#2563eb"/>
+  <text x="430" y="93" font-size="15" fill="#ffffff" font-weight="bold">没变的（地基层）</text>
+  <text x="430" y="138" font-size="15" fill="#334155" font-weight="bold">需求在前</text>
+  <text x="430" y="162" font-size="13" fill="#64748b">人先有问题，才有搜索和提问</text>
+  <text x="430" y="204" font-size="15" fill="#334155" font-weight="bold">信任稀缺</text>
+  <text x="430" y="228" font-size="13" fill="#64748b">自夸永远便宜，第三方背书永远贵</text>
+  <text x="430" y="270" font-size="15" fill="#334155" font-weight="bold">地基不变</text>
+  <text x="430" y="294" font-size="13" fill="#64748b">可抓取、对意图、内容靠谱，缺一不可</text>
+  <text x="430" y="336" font-size="15" fill="#334155" font-weight="bold">官方口径</text>
+  <text x="430" y="360" font-size="13" fill="#64748b">为 AI 搜索做优化，本质上仍是 SEO</text>
+  <text x="30" y="424" font-size="15" fill="#334155">打法每隔几年换一轮，<tspan fill="#ea580c" font-weight="bold">地基从来没换过</tspan>。</text>
+</svg>

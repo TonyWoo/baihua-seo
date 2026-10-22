@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect width="800" height="420" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">AI 摘的是段落，不是整页</text>
+
+  <rect x="50" y="70" width="280" height="260" rx="6" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <rect x="70" y="92" width="240" height="9" fill="#cbd5e1"/>
+  <rect x="70" y="114" width="240" height="9" fill="#cbd5e1"/>
+  <rect x="70" y="136" width="200" height="9" fill="#cbd5e1"/>
+  <rect x="70" y="168" width="240" height="9" fill="#cbd5e1"/>
+  <rect x="70" y="190" width="220" height="9" fill="#cbd5e1"/>
+  <rect x="70" y="222" width="240" height="9" fill="#cbd5e1"/>
+  <text x="70" y="262" font-size="13" fill="#ea580c">答案埋在第 9 段，谁去挖？</text>
+  <rect x="70" y="278" width="240" height="9" fill="#cbd5e1"/>
+  <text x="190" y="356" font-size="13" fill="#64748b" text-anchor="middle">一整页长文</text>
+
+  <line x1="348" y1="200" x2="412" y2="200" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+
+  <rect x="430" y="70" width="320" height="70" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="450" y="112" font-size="15" fill="#1e3a8a">段落一：先把结论说清</text>
+
+  <rect x="430" y="160" width="320" height="76" rx="6" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="450" y="192" font-size="15" fill="#1e3a8a">段落二：数据与出处齐全</text>
+  <text x="450" y="218" font-size="13" font-weight="bold" fill="#ea580c">自包含，能单独看懂，被摘走的是它</text>
+
+  <rect x="430" y="256" width="320" height="70" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="450" y="298" font-size="15" fill="#1e3a8a">段落三：做法与注意事项</text>
+
+  <text x="400" y="392" font-size="13" fill="#64748b" text-anchor="middle">每段单独拎出来都能看懂，AI 才敢用、才好用。</text>
+</svg>

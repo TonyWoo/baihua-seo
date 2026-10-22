@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" font-family="sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="360" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">阿哲的成长路线：跟着一个工具站走完全书</text>
+  <text x="400" y="64" font-size="13" fill="#64748b" text-anchor="middle">每一章，他的站都往前推进一小步</text>
+
+  <line x1="45" y1="180" x2="752" y2="180" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+
+  <line x1="80" y1="150" x2="80" y2="168" stroke="#64748b" stroke-width="2"/>
+  <circle cx="80" cy="180" r="10" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="80" y="122" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">裸辞</text>
+  <text x="80" y="144" font-size="13" fill="#64748b" text-anchor="middle">起点：第 0 天</text>
+
+  <line x1="205" y1="192" x2="205" y2="210" stroke="#64748b" stroke-width="2"/>
+  <circle cx="205" cy="180" r="10" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="205" y="224" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">挖到第一个词</text>
+  <text x="205" y="246" font-size="13" fill="#64748b" text-anchor="middle">第 4 章</text>
+
+  <line x1="330" y1="150" x2="330" y2="168" stroke="#64748b" stroke-width="2"/>
+  <circle cx="330" cy="180" r="10" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="330" y="122" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">工具站上线</text>
+  <text x="330" y="144" font-size="13" fill="#64748b" text-anchor="middle">第 9～13 章</text>
+
+  <line x1="455" y1="192" x2="455" y2="210" stroke="#64748b" stroke-width="2"/>
+  <circle cx="455" cy="180" r="10" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="455" y="224" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">内容放量</text>
+  <text x="455" y="246" font-size="13" fill="#64748b" text-anchor="middle">第 14～17 章</text>
+
+  <line x1="580" y1="150" x2="580" y2="168" stroke="#64748b" stroke-width="2"/>
+  <circle cx="580" cy="180" r="10" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="580" y="122" font-size="15" font-weight="bold" fill="#1e3a8a" text-anchor="middle">外链与变现</text>
+  <text x="580" y="144" font-size="13" fill="#64748b" text-anchor="middle">第 18～23 章</text>
+
+  <line x1="705" y1="192" x2="705" y2="210" stroke="#64748b" stroke-width="2"/>
+  <circle cx="705" cy="180" r="10" fill="#ffffff" stroke="#ea580c" stroke-width="2"/>
+  <text x="705" y="224" font-size="15" font-weight="bold" fill="#ea580c" text-anchor="middle">被 AI 引用</text>
+  <text x="705" y="246" font-size="13" fill="#64748b" text-anchor="middle">第 24～31 章</text>
+
+  <text x="400" y="322" font-size="13" fill="#64748b" text-anchor="middle">量级先说清：月访问从几百涨到几万，月收入从几美元涨到几百美元，这就是独立开发者的真实曲线</text>
+</svg>

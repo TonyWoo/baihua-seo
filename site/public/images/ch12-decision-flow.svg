@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="sans-serif">
+  <defs>
+    <marker id="arrowB" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#2563eb"/></marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="430" fill="#f5f8ff"/>
+  <text x="400" y="36" text-anchor="middle" font-size="20" font-weight="bold" fill="#1e40af">选打法只问两个问题</text>
+
+  <rect x="75" y="54" width="220" height="46" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="185" y="82" text-anchor="middle" font-size="15" fill="#1f2937">手里有一个候选词</text>
+  <line x1="185" y1="100" x2="185" y2="108" stroke="#2563eb" stroke-width="2" marker-end="url(#arrowB)"/>
+
+  <polygon points="185,110 305,152 185,194 65,152" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="185" y="148" text-anchor="middle" font-size="14" fill="#1f2937">和主站主题</text>
+  <text x="185" y="168" text-anchor="middle" font-size="14" fill="#1f2937">贴边吗？</text>
+
+  <line x1="185" y1="194" x2="185" y2="224" stroke="#2563eb" stroke-width="2" marker-end="url(#arrowB)"/>
+  <text x="197" y="215" font-size="13" fill="#ea580c">贴边</text>
+  <rect x="75" y="228" width="220" height="46" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="185" y="256" text-anchor="middle" font-size="15" fill="#1f2937">进主站：一词一页</text>
+
+  <line x1="305" y1="152" x2="341" y2="152" stroke="#2563eb" stroke-width="2" marker-end="url(#arrowB)"/>
+  <text x="323" y="140" text-anchor="middle" font-size="13" fill="#ea580c">不贴边</text>
+
+  <polygon points="505,110 665,152 505,194 345,152" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="505" y="148" text-anchor="middle" font-size="14" fill="#1f2937">热度能持续</text>
+  <text x="505" y="168" text-anchor="middle" font-size="14" fill="#1f2937">一年以上吗？</text>
+
+  <line x1="505" y1="194" x2="505" y2="224" stroke="#2563eb" stroke-width="2" marker-end="url(#arrowB)"/>
+  <text x="517" y="215" font-size="13" fill="#ea580c">能</text>
+  <rect x="395" y="228" width="220" height="46" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="505" y="256" text-anchor="middle" font-size="15" fill="#1f2937">独立开站：一词一站</text>
+
+  <polyline points="665,152 725,152 725,224" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#arrowB)"/>
+  <text x="695" y="140" text-anchor="middle" font-size="13" fill="#ea580c">短期爆发</text>
+  <rect x="640" y="228" width="155" height="46" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="717" y="256" text-anchor="middle" font-size="13" fill="#1f2937">先在主站试水一页</text>
+
+  <rect x="40" y="306" width="720" height="84" rx="6" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <text x="60" y="334" font-size="15" font-weight="bold" fill="#1e40af">默认与例外</text>
+  <text x="60" y="360" font-size="13" fill="#334155">默认一词一页：贴边又长寿的词，是主站的食粮。例外才一词一站：不贴边、能活一年以上，才值得单开。</text>
+  <text x="60" y="382" font-size="13" fill="#334155">拿不准的先试水：为短命词先建站，是这行最常见的浪费。</text>
+</svg>

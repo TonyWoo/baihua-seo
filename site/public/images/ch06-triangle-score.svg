@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="420" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">一个词值不值得做：三角账</text>
+  <polygon points="400,96 190,330 610,330" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="78" font-size="18" font-weight="bold" fill="#1e3a8a" text-anchor="middle">热度</text>
+  <text x="400" y="126" font-size="13" fill="#64748b" text-anchor="middle">有多少人在搜</text>
+  <text x="190" y="364" font-size="18" font-weight="bold" fill="#1e3a8a" text-anchor="middle">难度</text>
+  <text x="196" y="308" font-size="13" fill="#64748b" text-anchor="middle">对手强不强</text>
+  <text x="610" y="364" font-size="18" font-weight="bold" fill="#1e3a8a" text-anchor="middle">商业价值</text>
+  <text x="604" y="308" font-size="13" fill="#64748b" text-anchor="middle">搜的人会不会付钱</text>
+  <circle cx="400" cy="240" r="34" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="400" y="248" font-size="20" font-weight="bold" fill="#ea580c" text-anchor="middle">做</text>
+  <text x="400" y="398" font-size="14" fill="#334155" text-anchor="middle">三条边都过线，才值得动手；只占一条边的词，再热闹也先放一放</text>
+</svg>

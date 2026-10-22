@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="430" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">搜索意图四分类：先看清用户想干什么</text>
+
+  <rect x="14" y="84" width="178" height="258" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="103" y="118" font-size="16" font-weight="bold" fill="#1e3a8a" text-anchor="middle">找网站</text>
+  <text x="103" y="140" font-size="13" fill="#64748b" text-anchor="middle">导航型</text>
+  <line x1="34" y1="156" x2="172" y2="156" stroke="#2563eb" stroke-width="1"/>
+  <text x="103" y="184" font-size="13" fill="#64748b" text-anchor="middle">他搜什么</text>
+  <text x="103" y="208" font-size="14" fill="#334155" text-anchor="middle">品牌名、产品名</text>
+  <text x="103" y="240" font-size="13" fill="#64748b" text-anchor="middle">他想要</text>
+  <text x="103" y="264" font-size="14" fill="#334155" text-anchor="middle">直达那个地方</text>
+  <text x="103" y="296" font-size="13" fill="#64748b" text-anchor="middle">你该给</text>
+  <text x="103" y="320" font-size="14" fill="#334155" text-anchor="middle">守住自己的品牌词</text>
+
+  <rect x="208" y="84" width="178" height="258" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="297" y="118" font-size="16" font-weight="bold" fill="#1e3a8a" text-anchor="middle">找答案</text>
+  <text x="297" y="140" font-size="13" fill="#64748b" text-anchor="middle">信息型</text>
+  <line x1="228" y1="156" x2="366" y2="156" stroke="#2563eb" stroke-width="1"/>
+  <text x="297" y="184" font-size="13" fill="#64748b" text-anchor="middle">他搜什么</text>
+  <text x="297" y="208" font-size="14" fill="#334155" text-anchor="middle">怎么做、为什么</text>
+  <text x="297" y="240" font-size="13" fill="#64748b" text-anchor="middle">他想要</text>
+  <text x="297" y="264" font-size="14" fill="#334155" text-anchor="middle">一个能用的答案</text>
+  <text x="297" y="296" font-size="13" fill="#64748b" text-anchor="middle">你该给</text>
+  <text x="297" y="320" font-size="14" fill="#334155" text-anchor="middle">教程，或能直接用的工具</text>
+
+  <rect x="402" y="84" width="178" height="258" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="491" y="118" font-size="16" font-weight="bold" fill="#1e3a8a" text-anchor="middle">做比较</text>
+  <text x="491" y="140" font-size="13" fill="#64748b" text-anchor="middle">调研型</text>
+  <line x1="422" y1="156" x2="560" y2="156" stroke="#2563eb" stroke-width="1"/>
+  <text x="491" y="184" font-size="13" fill="#64748b" text-anchor="middle">他搜什么</text>
+  <text x="491" y="208" font-size="14" fill="#334155" text-anchor="middle">哪个好、值不值</text>
+  <text x="491" y="240" font-size="13" fill="#64748b" text-anchor="middle">他想要</text>
+  <text x="491" y="264" font-size="14" fill="#334155" text-anchor="middle">比完能做个决定</text>
+  <text x="491" y="296" font-size="13" fill="#64748b" text-anchor="middle">你该给</text>
+  <text x="491" y="320" font-size="14" fill="#334155" text-anchor="middle">对比表、优缺点、价格</text>
+
+  <rect x="596" y="84" width="178" height="258" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="685" y="118" font-size="16" font-weight="bold" fill="#1e3a8a" text-anchor="middle">要下单</text>
+  <text x="685" y="140" font-size="13" fill="#64748b" text-anchor="middle">交易型</text>
+  <line x1="616" y1="156" x2="754" y2="156" stroke="#2563eb" stroke-width="1"/>
+  <text x="685" y="184" font-size="13" fill="#64748b" text-anchor="middle">他搜什么</text>
+  <text x="685" y="208" font-size="14" fill="#334155" text-anchor="middle">买、价格、优惠</text>
+  <text x="685" y="240" font-size="13" fill="#64748b" text-anchor="middle">他想要</text>
+  <text x="685" y="264" font-size="14" fill="#334155" text-anchor="middle">马上完成购买</text>
+  <text x="685" y="296" font-size="13" fill="#64748b" text-anchor="middle">你该给</text>
+  <text x="685" y="320" font-size="14" fill="#334155" text-anchor="middle">产品页和购买入口</text>
+
+  <text x="400" y="392" font-size="13" fill="#64748b" text-anchor="middle">判断意图最准的土办法：看现在排前十的都是什么页面，用户想要什么一目了然</text>
+</svg>

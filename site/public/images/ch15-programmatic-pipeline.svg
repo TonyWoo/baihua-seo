@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="380" fill="#f5f8ff"/>
+  <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="bold" fill="#2563eb">程序化 SEO：一套模板，配上一份真数据</text>
+  <rect x="36" y="96" width="214" height="70" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="143" y="124" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e293b">变量组合</text>
+  <text x="143" y="148" text-anchor="middle" font-size="13" fill="#64748b">源格式 × 目标格式</text>
+  <rect x="36" y="196" width="214" height="70" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="143" y="224" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e293b">真实数据</text>
+  <text x="143" y="248" text-anchor="middle" font-size="13" fill="#64748b">格式规格 + 实测结果</text>
+  <rect x="316" y="128" width="190" height="96" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="411" y="156" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e293b">页面模板</text>
+  <text x="411" y="180" text-anchor="middle" font-size="13" fill="#334155">转换工具</text>
+  <text x="411" y="198" text-anchor="middle" font-size="13" fill="#334155">组合独有说明</text>
+  <text x="411" y="216" text-anchor="middle" font-size="13" fill="#334155">实测数据表</text>
+  <rect x="556" y="92" width="208" height="196" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="660" y="120" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e293b">批量页面</text>
+  <rect x="572" y="134" width="176" height="36" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="660" y="157" text-anchor="middle" font-size="14" fill="#1e293b">PNG 转 JPG</text>
+  <rect x="572" y="178" width="176" height="36" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="660" y="201" text-anchor="middle" font-size="14" fill="#1e293b">JPG 转 WebP</text>
+  <rect x="572" y="222" width="176" height="36" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="660" y="245" text-anchor="middle" font-size="14" fill="#1e293b">WebP 转 PNG</text>
+  <text x="660" y="276" text-anchor="middle" font-size="13" fill="#64748b">……共 300 多页</text>
+  <line x1="250" y1="131" x2="312" y2="158" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="250" y1="231" x2="312" y2="194" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="506" y1="176" x2="552" y2="176" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="400" y="340" text-anchor="middle" font-size="13" fill="#64748b">模板决定长相，数据决定每页的价值</text>
+</svg>

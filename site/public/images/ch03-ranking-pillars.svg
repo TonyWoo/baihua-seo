@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="430" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">排名排的三样：相关性、权威性、体验感</text>
+
+  <rect x="80" y="66" width="640" height="46" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="95" font-size="15" fill="#334155" text-anchor="middle">用户看到的结果顺序，就由这三根柱子撑着</text>
+
+  <line x1="185" y1="112" x2="185" y2="136" stroke="#2563eb" stroke-width="2"/>
+  <line x1="400" y1="112" x2="400" y2="136" stroke="#2563eb" stroke-width="2"/>
+  <line x1="615" y1="112" x2="615" y2="136" stroke="#2563eb" stroke-width="2"/>
+
+  <rect x="95" y="140" width="180" height="36" rx="6" fill="#2563eb"/>
+  <text x="185" y="164" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">相关性</text>
+  <rect x="95" y="176" width="180" height="146" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="185" y="208" font-size="14" fill="#334155" text-anchor="middle">这页在不在答这道题</text>
+  <text x="185" y="235" font-size="14" fill="#334155" text-anchor="middle">标题正文与问题对题</text>
+  <text x="185" y="262" font-size="14" fill="#334155" text-anchor="middle">把问题答全、答准</text>
+  <text x="185" y="298" font-size="13" font-weight="bold" fill="#2563eb" text-anchor="middle">它是入场券</text>
+
+  <rect x="310" y="140" width="180" height="36" rx="6" fill="#2563eb"/>
+  <text x="400" y="164" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">权威性</text>
+  <rect x="310" y="176" width="180" height="146" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="400" y="208" font-size="14" fill="#334155" text-anchor="middle">别人凭什么信你</text>
+  <text x="400" y="235" font-size="14" fill="#334155" text-anchor="middle">外链是主要的票</text>
+  <text x="400" y="262" font-size="14" fill="#334155" text-anchor="middle">品牌提及与专业出处</text>
+  <text x="400" y="298" font-size="13" font-weight="bold" fill="#2563eb" text-anchor="middle">它决定名次</text>
+
+  <rect x="525" y="140" width="180" height="36" rx="6" fill="#2563eb"/>
+  <text x="615" y="164" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">体验感</text>
+  <rect x="525" y="176" width="180" height="146" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="615" y="208" font-size="14" fill="#334155" text-anchor="middle">用起来难不难受</text>
+  <text x="615" y="235" font-size="14" fill="#334155" text-anchor="middle">打开快、手机友好</text>
+  <text x="615" y="262" font-size="14" fill="#334155" text-anchor="middle">没有弹窗糊脸</text>
+  <text x="615" y="298" font-size="13" font-weight="bold" fill="#2563eb" text-anchor="middle">不及格就出局</text>
+
+  <rect x="80" y="340" width="640" height="44" rx="6" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="400" y="368" font-size="15" fill="#ea580c" text-anchor="middle">地基：先被爬到、被收录，才轮得到谈排名（第 1 章）</text>
+
+  <text x="400" y="414" font-size="13" fill="#64748b" text-anchor="middle">普通人最能使上劲的顺序：先补相关性，再补体验感，最后慢慢攒权威性</text>
+</svg>

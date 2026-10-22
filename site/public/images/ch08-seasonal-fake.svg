@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="460" fill="#f5f8ff"/>
+  <text x="400" y="38" font-size="20" font-weight="bold" fill="#1e3a8a" text-anchor="middle">两种假爆发，长得像，命不同</text>
+  <rect x="60" y="70" width="680" height="150" fill="#ffffff" stroke="#64748b" stroke-width="1.5"/>
+  <text x="80" y="98" font-size="15" font-weight="bold" fill="#1e3a8a">季节性老词：每年同一时间准时回来</text>
+  <text x="740" y="98" font-size="13" fill="#64748b" text-anchor="end">把时间拉到 5 年，它年年如此</text>
+  <path d="M 85 195 C 125 142, 165 142, 205 195 C 245 142, 285 142, 325 195 C 365 142, 405 142, 445 195 C 485 142, 525 142, 565 195 C 605 146, 660 150, 715 192" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+  <rect x="60" y="250" width="680" height="150" fill="#ffffff" stroke="#64748b" stroke-width="1.5"/>
+  <text x="80" y="278" font-size="15" font-weight="bold" fill="#1e3a8a">一日行情：媒体带一波，第二天就散</text>
+  <text x="740" y="278" font-size="13" fill="#64748b" text-anchor="end">词的底下，没有持续的搜索需求</text>
+  <path d="M 85 378 L 290 378 C 322 376, 342 302, 358 292 C 374 302, 386 374, 424 378 L 715 378" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+  <circle cx="358" cy="292" r="6" fill="#ea580c"/>
+  <text x="400" y="438" font-size="14" font-weight="bold" fill="#ea580c" text-anchor="middle">分辨办法只有一个：拉长时间轴，再找标杆词比量级</text>
+</svg>

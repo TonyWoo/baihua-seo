@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="380" fill="#f5f8ff"/>
+  <text x="400" y="38" text-anchor="middle" font-size="20" font-weight="bold" fill="#2563eb">锚文本：顺着句子写，别当插槽用</text>
+  <rect x="36" y="62" width="348" height="246" rx="6" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <text x="60" y="92" font-size="15" font-weight="bold" fill="#ea580c">反例：同一个词反复塞</text>
+  <rect x="60" y="112" width="300" height="40" rx="6" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="210" y="137" text-anchor="middle" font-size="15" fill="#1e293b">图片压缩工具</text>
+  <rect x="60" y="164" width="300" height="40" rx="6" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="210" y="189" text-anchor="middle" font-size="15" fill="#1e293b">图片压缩工具</text>
+  <rect x="60" y="216" width="300" height="40" rx="6" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
+  <text x="210" y="241" text-anchor="middle" font-size="15" fill="#1e293b">图片压缩工具</text>
+  <text x="210" y="288" text-anchor="middle" font-size="13" fill="#64748b">读起来像广告，用户和算法都不喜欢</text>
+  <rect x="416" y="62" width="348" height="246" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="440" y="92" font-size="15" font-weight="bold" fill="#2563eb">正例：说法自然，每次略有不同</text>
+  <rect x="440" y="112" width="300" height="40" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="590" y="137" text-anchor="middle" font-size="15" fill="#1e293b">试试这个在线压缩工具</text>
+  <rect x="440" y="164" width="300" height="40" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="590" y="189" text-anchor="middle" font-size="15" fill="#1e293b">把图片压小一点</text>
+  <rect x="440" y="216" width="300" height="40" rx="6" fill="#eff6ff" stroke="#2563eb" stroke-width="2"/>
+  <text x="590" y="241" text-anchor="middle" font-size="15" fill="#1e293b">PNG 压缩的详细做法</text>
+  <text x="590" y="288" text-anchor="middle" font-size="13" fill="#64748b">锚文本是句子的一部分，不是关键词坑位</text>
+  <text x="400" y="346" text-anchor="middle" font-size="13" fill="#64748b">同一个目标页，准备三到五种自然说法轮换着用</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" font-family="sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="340" fill="#f5f8ff"/>
+  <text x="400" y="36" text-anchor="middle" font-size="20" fill="#2563eb">阿哲的第一批正经外链：八周</text>
+
+  <line x1="50" y1="180" x2="752" y2="180" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+
+  <text x="95" y="112" text-anchor="middle" font-size="13" fill="#1e293b">数据报告上线</text>
+  <text x="95" y="132" text-anchor="middle" font-size="13" fill="#64748b">只递给两位博主</text>
+  <text x="95" y="162" text-anchor="middle" font-size="13" font-weight="bold" fill="#2563eb">第 1 周</text>
+  <circle cx="95" cy="180" r="8" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+
+  <text x="255" y="206" text-anchor="middle" font-size="13" font-weight="bold" fill="#2563eb">第 2 周</text>
+  <text x="255" y="232" text-anchor="middle" font-size="13" fill="#1e293b">论坛答主引用了</text>
+  <text x="255" y="252" text-anchor="middle" font-size="13" fill="#64748b">报告里的一个数字</text>
+  <circle cx="255" cy="180" r="8" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+
+  <text x="415" y="112" text-anchor="middle" font-size="13" fill="#1e293b">教程博主更新旧文</text>
+  <text x="415" y="132" text-anchor="middle" font-size="13" fill="#64748b">把数据加了进去</text>
+  <text x="415" y="162" text-anchor="middle" font-size="13" font-weight="bold" fill="#2563eb">第 4 周</text>
+  <circle cx="415" cy="180" r="8" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+
+  <text x="575" y="206" text-anchor="middle" font-size="13" font-weight="bold" fill="#2563eb">第 6 周</text>
+  <text x="575" y="232" text-anchor="middle" font-size="13" fill="#1e293b">两个资源汇总页</text>
+  <text x="575" y="252" text-anchor="middle" font-size="13" fill="#64748b">收录了改名小工具</text>
+  <circle cx="575" cy="180" r="8" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+
+  <text x="712" y="112" text-anchor="middle" font-size="13" font-weight="bold" fill="#ea580c">外链十几条</text>
+  <text x="712" y="132" text-anchor="middle" font-size="13" fill="#64748b">长尾词爬进首页</text>
+  <text x="712" y="162" text-anchor="middle" font-size="13" font-weight="bold" fill="#2563eb">第 8 周</text>
+  <circle cx="712" cy="180" r="8" fill="#ea580c" stroke="#ea580c" stroke-width="2"/>
+
+  <text x="400" y="306" text-anchor="middle" font-size="13" fill="#64748b">没有一夜暴涨，只有一句接一句的：这个数据挺有用</text>
+</svg>

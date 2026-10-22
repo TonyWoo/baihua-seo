@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="340" fill="#f5f8ff"/>
+  <text x="40" y="44" font-size="20" fill="#2563eb" font-weight="bold">AI 引用的链接，八成以上不是品牌自己的</text>
+  <rect x="70" y="110" width="172" height="58" fill="#2563eb"/>
+  <rect x="242" y="110" width="383" height="58" fill="#60a5fa"/>
+  <rect x="625" y="110" width="105" height="58" fill="#64748b"/>
+  <text x="156" y="146" font-size="15" fill="#ffffff" text-anchor="middle">约 26%</text>
+  <text x="433" y="146" font-size="15" fill="#ffffff" text-anchor="middle">约 58%</text>
+  <text x="677" y="146" font-size="15" fill="#ffffff" text-anchor="middle">16%</text>
+  <text x="156" y="198" font-size="13" fill="#334155" text-anchor="middle">新闻报道</text>
+  <text x="433" y="198" font-size="13" fill="#334155" text-anchor="middle">社区、百科、测评等其他第三方</text>
+  <text x="677" y="198" font-size="13" fill="#334155" text-anchor="middle">品牌自有与付费</text>
+  <text x="70" y="256" font-size="15" fill="#334155">合起来，第三方占 <tspan fill="#ea580c" font-weight="bold">84%</tspan>：AI 更信「别人怎么说你」，而不是「你自己怎么说」</text>
+  <text x="70" y="292" font-size="13" fill="#64748b">数据来源：Muck Rack《What Is AI Reading?》，2026 年 5 月</text>
+</svg>

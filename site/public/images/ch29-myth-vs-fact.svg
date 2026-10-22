@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="sans-serif">
+  <rect x="0" y="0" width="800" height="430" fill="#f5f8ff"/>
+  <text x="30" y="42" font-size="20" fill="#2563eb" font-weight="bold">两个流行说法，证据怎么说</text>
+  <rect x="30" y="66" width="360" height="290" rx="6" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <rect x="30" y="66" width="360" height="42" fill="#64748b"/>
+  <text x="50" y="93" font-size="15" fill="#ffffff" font-weight="bold">流行的说法</text>
+  <text x="50" y="146" font-size="15" fill="#334155">说法一</text>
+  <text x="50" y="174" font-size="15" fill="#334155">「加上 llms.txt，</text>
+  <text x="50" y="200" font-size="15" fill="#334155">AI 就会引用我。」</text>
+  <text x="50" y="252" font-size="15" fill="#334155">说法二</text>
+  <text x="50" y="280" font-size="15" fill="#334155">「多堆 Schema 标记，</text>
+  <text x="50" y="306" font-size="15" fill="#334155">AI 引用就会涨。」</text>
+  <rect x="410" y="66" width="360" height="290" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <rect x="410" y="66" width="360" height="42" fill="#2563eb"/>
+  <text x="430" y="93" font-size="15" fill="#ffffff" font-weight="bold">证据的说法</text>
+  <text x="430" y="146" font-size="15" fill="#334155">30 万域名实测：有没有它，</text>
+  <text x="430" y="174" font-size="15" fill="#334155">与被引无可测相关；Google 明</text>
+  <text x="430" y="200" font-size="15" fill="#334155">确表示不用于搜索可见性。</text>
+  <text x="430" y="252" font-size="15" fill="#334155">对照研究：对 AI 引用无显著</text>
+  <text x="430" y="280" font-size="15" fill="#334155">提升。它对传统搜索的富摘要</text>
+  <text x="430" y="306" font-size="15" fill="#334155">仍然有用，该加还加。</text>
+  <text x="30" y="396" font-size="15" fill="#334155">共同结论：成本低，可以留着；但<tspan fill="#ea580c" font-weight="bold">别当策略</tspan>，更别为它们花大钱。</text>
+</svg>

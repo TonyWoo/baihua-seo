@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="sans-serif">
+  <defs>
+    <marker id="arrowB" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#2563eb"/></marker>
+    <marker id="arrowG" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#64748b"/></marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="400" fill="#f5f8ff"/>
+  <text x="400" y="36" text-anchor="middle" font-size="20" font-weight="bold" fill="#1e40af">一个页面一个意图：塞在一起，谁都排不上</text>
+
+  <rect x="30" y="64" width="360" height="240" rx="6" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <text x="210" y="94" text-anchor="middle" font-size="16" font-weight="bold" fill="#64748b">错误摆法：一页塞三个意图</text>
+  <rect x="130" y="112" width="160" height="44" rx="6" fill="#f1f5f9" stroke="#64748b" stroke-width="2"/>
+  <text x="210" y="140" text-anchor="middle" font-size="15" fill="#1f2937">一个万能页</text>
+  <line x1="180" y1="156" x2="100" y2="206" stroke="#64748b" stroke-width="2" marker-end="url(#arrowG)"/>
+  <line x1="210" y1="156" x2="210" y2="206" stroke="#64748b" stroke-width="2" marker-end="url(#arrowG)"/>
+  <line x1="240" y1="156" x2="320" y2="206" stroke="#64748b" stroke-width="2" marker-end="url(#arrowG)"/>
+  <rect x="45" y="210" width="100" height="40" rx="6" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <text x="95" y="235" text-anchor="middle" font-size="13" fill="#334155">压缩图片</text>
+  <rect x="160" y="210" width="100" height="40" rx="6" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <text x="210" y="235" text-anchor="middle" font-size="13" fill="#334155">转换格式</text>
+  <rect x="275" y="210" width="100" height="40" rx="6" fill="#ffffff" stroke="#64748b" stroke-width="2"/>
+  <text x="325" y="235" text-anchor="middle" font-size="13" fill="#334155">编辑图片</text>
+  <text x="210" y="284" text-anchor="middle" font-size="13" fill="#ea580c">每个意图只分到三分之一对口，谁都排不上</text>
+
+  <rect x="410" y="64" width="360" height="240" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="590" y="94" text-anchor="middle" font-size="16" font-weight="bold" fill="#2563eb">正确摆法：三页各管一个</text>
+  <rect x="425" y="112" width="100" height="40" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="475" y="137" text-anchor="middle" font-size="14" fill="#1f2937">压缩页</text>
+  <rect x="540" y="112" width="100" height="40" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="590" y="137" text-anchor="middle" font-size="14" fill="#1f2937">转换页</text>
+  <rect x="655" y="112" width="100" height="40" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text x="705" y="137" text-anchor="middle" font-size="14" fill="#1f2937">编辑页</text>
+  <line x1="475" y1="152" x2="475" y2="206" stroke="#2563eb" stroke-width="2" marker-end="url(#arrowB)"/>
+  <line x1="590" y1="152" x2="590" y2="206" stroke="#2563eb" stroke-width="2" marker-end="url(#arrowB)"/>
+  <line x1="705" y1="152" x2="705" y2="206" stroke="#2563eb" stroke-width="2" marker-end="url(#arrowB)"/>
+  <rect x="425" y="210" width="100" height="40" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="475" y="235" text-anchor="middle" font-size="13" fill="#334155">压缩图片</text>
+  <rect x="540" y="210" width="100" height="40" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="590" y="235" text-anchor="middle" font-size="13" fill="#334155">转换格式</text>
+  <rect x="655" y="210" width="100" height="40" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="705" y="235" text-anchor="middle" font-size="13" fill="#334155">编辑图片</text>
+  <text x="590" y="284" text-anchor="middle" font-size="13" fill="#2563eb">每个页面全身心对准一个意图，各排各的</text>
+
+  <text x="400" y="352" text-anchor="middle" font-size="13" fill="#64748b">页面总数没多多少，排名能力完全两样：对口程度决定排名上限。</text>
+</svg>

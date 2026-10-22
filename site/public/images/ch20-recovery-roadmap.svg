@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="460" fill="#f5f8ff"/>
+  <text x="400" y="38" text-anchor="middle" font-size="20" fill="#2563eb">恢复路径：没有快的，只有对的</text>
+
+  <rect x="40" y="100" width="220" height="80" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="66" cy="140" r="13" fill="#2563eb"/>
+  <text x="66" y="145" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">1</text>
+  <text x="88" y="132" font-size="15" font-weight="bold" fill="#1e293b">确诊</text>
+  <text x="88" y="156" font-size="13" fill="#64748b">先看有没有处罚通知</text>
+
+  <rect x="290" y="100" width="220" height="80" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="316" cy="140" r="13" fill="#2563eb"/>
+  <text x="316" y="145" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">2</text>
+  <text x="338" y="132" font-size="15" font-weight="bold" fill="#1e293b">停手</text>
+  <text x="338" y="156" font-size="13" fill="#64748b">停掉买链与群发</text>
+
+  <rect x="540" y="100" width="220" height="80" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="566" cy="140" r="13" fill="#2563eb"/>
+  <text x="566" y="145" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">3</text>
+  <text x="588" y="132" font-size="15" font-weight="bold" fill="#1e293b">盘点</text>
+  <text x="588" y="156" font-size="13" fill="#64748b">拉出全部外链清单</text>
+
+  <line x1="262" y1="140" x2="286" y2="140" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="512" y1="140" x2="536" y2="140" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="650" y1="184" x2="650" y2="256" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+
+  <rect x="540" y="262" width="220" height="80" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="566" cy="302" r="13" fill="#2563eb"/>
+  <text x="566" y="307" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">4</text>
+  <text x="588" y="294" font-size="15" font-weight="bold" fill="#1e293b">拒绝问题链接</text>
+  <text x="588" y="318" font-size="13" fill="#64748b">删不掉的提交声明</text>
+
+  <rect x="290" y="262" width="220" height="80" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="316" cy="302" r="13" fill="#2563eb"/>
+  <text x="316" y="307" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">5</text>
+  <text x="338" y="294" font-size="15" font-weight="bold" fill="#1e293b">提交复审</text>
+  <text x="338" y="318" font-size="13" fill="#64748b">写清做过什么、改了什么</text>
+
+  <rect x="40" y="262" width="220" height="80" rx="6" fill="#ffffff" stroke="#ea580c" stroke-width="2"/>
+  <circle cx="66" cy="302" r="13" fill="#ea580c"/>
+  <text x="66" y="307" text-anchor="middle" font-size="14" font-weight="bold" fill="#ffffff">6</text>
+  <text x="88" y="294" font-size="15" font-weight="bold" fill="#1e293b">回到正经打法</text>
+  <text x="88" y="318" font-size="13" fill="#64748b">信任靠时间重新攒</text>
+
+  <line x1="538" y1="302" x2="514" y2="302" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="288" y1="302" x2="264" y2="302" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+
+  <text x="400" y="398" text-anchor="middle" font-size="13" fill="#64748b">全程以月计，快则数月，慢则一年，这就是捷径的真实价格</text>
+  <text x="400" y="424" text-anchor="middle" font-size="13" fill="#64748b">处罚解除不等于排名回满，信任要靠新内容和正经链接慢慢补</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="800" height="420" fill="#f5f8ff"/>
+  <text x="400" y="38" text-anchor="middle" font-size="20" fill="#2563eb">外链就是投票：票和票不一样重</text>
+
+  <rect x="40" y="80" width="210" height="64" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="145" y="108" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e293b">行业大站</text>
+  <text x="145" y="130" text-anchor="middle" font-size="13" fill="#64748b">自己也被很多人引用</text>
+
+  <rect x="40" y="180" width="210" height="64" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="145" y="208" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e293b">同行博客</text>
+  <text x="145" y="230" text-anchor="middle" font-size="13" fill="#64748b">话题对口，分量中等</text>
+
+  <rect x="40" y="280" width="210" height="64" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="145" y="308" text-anchor="middle" font-size="15" font-weight="bold" fill="#1e293b">陌生小站</text>
+  <text x="145" y="330" text-anchor="middle" font-size="13" fill="#64748b">刚注册，没人认识</text>
+
+  <path d="M250,112 C380,122 460,158 562,190" fill="none" stroke="#2563eb" stroke-width="6" marker-end="url(#arr)"/>
+  <path d="M250,212 C380,212 460,214 562,218" fill="none" stroke="#2563eb" stroke-width="3.5" marker-end="url(#arr)"/>
+  <path d="M250,312 C380,300 460,272 562,248" fill="none" stroke="#2563eb" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <text x="400" y="102" text-anchor="middle" font-size="13" fill="#ea580c">票很重，约 10 分</text>
+  <text x="405" y="188" text-anchor="middle" font-size="13" fill="#64748b">票中等，约 3 分</text>
+  <text x="405" y="306" text-anchor="middle" font-size="13" fill="#64748b">票很轻，约 1 分</text>
+
+  <rect x="570" y="160" width="190" height="110" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="2"/>
+  <text x="665" y="198" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e293b">你的页面</text>
+  <text x="665" y="224" text-anchor="middle" font-size="13" fill="#64748b">收到的推荐票</text>
+  <text x="665" y="246" text-anchor="middle" font-size="13" fill="#64748b">决定排名的底气</text>
+
+  <text x="400" y="392" text-anchor="middle" font-size="13" fill="#64748b">自己在页面上夸自己，不算票；只有别人链过来，才算数</text>
+</svg>
